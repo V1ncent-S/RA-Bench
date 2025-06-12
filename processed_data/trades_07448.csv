@@ -1,0 +1,29 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-07 09:20:16,8200.0,debit_card,payment,instant transfer,u018,u002
+1,2023-09-07 09:25:04,8200.0,balance,payment,transfer to account,u002,u015
+2,2023-09-07 09:26:47,8200.0,credit_card,payment,transfer to account,u015,u018
+3,2023-09-07 16:15:16,523.66,debit_card,payment,instant transfer,u003,u016
+4,2023-09-07 16:36:46,1000.0,debit_card,payment,transfer to account,u004,u000
+5,2023-09-07 16:45:19,1000.0,balance,payment,transfer to account,u004,u013
+6,2023-09-07 16:58:55,1200.0,debit_card,payment,transfer to account,u012,u005
+7,2023-09-07 18:11:42,1140.0,debit_card,payment,instant transfer,u021,u020
+8,2023-09-07 18:12:45,1700.0,debit_card,payment,instant transfer,u021,u003
+9,2023-09-07 18:33:53,1200.0,other,payment,instant transfer,u021,u013
+10,2023-09-07 18:57:09,1379.0,moneyfund,payment,instant transfer,u015,u009
+11,2023-09-07 18:57:17,10000.0,balance,payment,transfer to account,u016,u011
+12,2023-09-07 19:13:42,1000.0,balance,transfer to card,others,u015,u009
+13,2023-09-07 19:20:24,2400.0,moneyfund,payment,instant transfer,u000,u013
+14,2023-09-07 19:21:30,1000.0,moneyfund,payment,transfer to account,u016,u008
+15,2023-09-07 19:38:08,2100.0,alicredit,payment,O2O,u019,u010
+16,2023-09-07 20:04:21,810.0,alicredit,payment,instant transfer,u004,u005
+17,2023-09-07 20:22:02,1000.0,credit_card,payment,O2O,u014,u017
+18,2023-09-07 20:25:36,600.0,debit_card,payment,transfer to account,u017,u006
+19,2023-09-07 21:10:59,2000.0,moneyfund,transfer to card,transfer to card,u022,u003
+20,2023-09-07 21:26:31,2200.0,credit_card,payment,O2O,u002,u001
+21,2023-09-07 21:30:38,1380.0,balance,payment,transfer to account,u013,u022
+22,2023-09-07 21:30:40,1218.0,alicredit,payment,O2O,u008,u022
+23,2023-09-07 21:30:57,1170.0,balance,payment,O2O,u008,u022
+24,2023-09-07 21:32:12,2000.0,credit_card,payment,O2O,u002,u007
+25,2023-09-07 21:32:27,1155.0,moneyfund,payment,instant transfer,u008,u022
+26,2023-09-07 23:19:28,3000.0,moneyfund,payment,transfer to account,u020,u007
+27,2023-09-07 23:22:59,1000.0,debit_card,payment,transfer to account,u020,u007

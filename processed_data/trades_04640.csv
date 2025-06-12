@@ -1,0 +1,29 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-10 01:55:49,648.0,debit_card,payment,instant transfer,u013,u017
+1,2023-09-10 14:45:49,815.9,balance,payment,instant transfer,u003,u015
+2,2023-09-10 15:00:23,710.0,balance,payment,instant transfer,u003,u018
+3,2023-09-10 15:16:02,499.0,moneyfund,transfer to card,others,u009,u020
+4,2023-09-10 17:09:22,849.0,alicredit,payment,instant transfer,u003,u002
+5,2023-09-10 17:11:50,1001.0,balance,transfer to card,transfer to card,u019,u003
+6,2023-09-10 17:12:41,699.0,moneyfund,payment,instant transfer,u019,u003
+7,2023-09-10 19:05:38,497.0,moneyfund,payment,instant transfer,u016,u001
+8,2023-09-10 19:10:48,2000.0,debit_card,payment,transfer to account,u016,u014
+9,2023-09-10 19:12:01,1000.0,moneyfund,payment,transfer to account,u004,u010
+10,2023-09-10 19:14:16,500.0,moneyfund,payment,transfer to account,u004,u003
+11,2023-09-10 19:26:17,1999.0,moneyfund,payment,instant transfer,u006,u000
+12,2023-09-10 20:34:46,799.0,moneyfund,payment,transfer to account,u019,u015
+13,2023-09-10 21:01:29,3100.0,moneyfund,payment,transfer to account,u007,u002
+14,2023-09-10 21:01:44,3100.0,moneyfund,payment,instant transfer,u002,u014
+15,2023-09-10 21:39:44,1500.0,balance,payment,instant transfer,u016,u000
+16,2023-09-10 22:29:32,886.0,credit_card,payment,instant transfer,u005,u021
+17,2023-09-10 22:33:11,500.0,balance,transfer to card,others,u021,u005
+18,2023-09-10 22:33:37,500.0,balance,transfer to card,others,u021,u005
+19,2023-09-10 22:33:41,1000.0,debit_card,payment,transfer to account,u012,u017
+20,2023-09-10 22:34:29,500.0,balance,transfer to card,others,u021,u011
+21,2023-09-10 22:49:37,500.0,debit_card,payment,instant transfer,u005,u008
+22,2023-09-10 23:03:47,1000.0,balance,payment,transfer to account,u012,u003
+23,2023-09-10 23:11:34,1000.0,balance,payment,transfer to account,u014,u020
+24,2023-09-10 23:36:03,50000.0,debit_card,payment,transfer to account,u006,u001
+25,2023-09-10 23:45:23,682.0,balance,payment,instant transfer,u018,u003
+26,2023-09-10 23:46:56,687.5,credit_card,payment,instant transfer,u018,u015
+27,2023-09-10 23:47:39,849.0,debit_card,payment,instant transfer,u018,u003

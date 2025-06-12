@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-12 11:55:39,5200.0,debit_card,payment,transfer to account,u003,u009
+1,2023-09-12 11:57:28,5200.0,moneyfund,payment,transfer to account,u009,u016
+2,2023-09-12 12:03:10,5200.0,balance,payment,instant transfer,u016,u003
+3,2023-09-12 14:36:32,5345.0,moneyfund,payment,transfer to account,u001,u013
+4,2023-09-12 14:51:15,2248.0,moneyfund,payment,transfer to account,u000,u013
+5,2023-09-12 14:52:07,4950.0,debit_card,payment,transfer to account,u000,u013
+6,2023-09-12 15:06:16,985.0,debit_card,payment,tangible goods trade,u022,u013
+7,2023-09-12 17:46:13,9979.7,balance,transfer to card,others,u006,u015
+8,2023-09-12 18:03:43,4500.0,balance,transfer to card,transfer to card,u007,u013
+9,2023-09-12 18:08:27,4300.0,moneyfund,transfer to card,transfer to card,u007,u013
+10,2023-09-12 18:39:52,498.0,debit_card,payment,tangible goods trade,u007,u013
+11,2023-09-12 19:28:35,4980.0,debit_card,payment,instant transfer,u004,u017
+12,2023-09-12 20:49:54,648.0,credit_card,payment,O2O,u008,u015
+13,2023-09-12 21:38:07,560.0,balance,payment,transfer to account,u025,u013
+14,2023-09-12 22:02:57,10000.0,balance,payment,instant transfer,u002,u013
+15,2023-09-12 22:36:53,1000.0,moneyfund,payment,transfer to account,u019,u021
+16,2023-09-12 22:37:53,13200.0,balance,payment,instant transfer,u002,u013
+17,2023-09-12 22:41:49,3000.0,moneyfund,payment,transfer to account,u005,u013
+18,2023-09-12 22:42:15,1999.0,debit_card,payment,transfer to account,u021,u012
+19,2023-09-12 22:43:49,1000.0,debit_card,payment,transfer to account,u020,u018
+20,2023-09-12 22:50:53,1500.0,moneyfund,payment,transfer to account,u020,u018
+21,2023-09-12 22:57:13,1000.0,balance,transfer to card,others,u014,u021
+22,2023-09-12 23:09:47,2800.0,debit_card,payment,tangible goods trade,u010,u023
+23,2023-09-12 23:26:51,500.0,debit_card,payment,instant transfer,u024,u013
+24,2023-09-12 23:39:49,633.06,moneyfund,payment,instant transfer,u011,u003
+25,2023-09-12 23:44:12,2000.0,debit_card,payment,transfer to account,u020,u003

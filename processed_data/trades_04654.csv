@@ -1,0 +1,30 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-06 02:32:21,522.5,balance,transfer to card,transfer to card,u010,u014
+1,2023-09-06 16:30:38,1000.0,moneyfund,payment,transfer to account,u016,u004
+2,2023-09-06 17:06:53,1740.0,balance,payment,transfer to account,u012,u002
+3,2023-09-06 17:34:27,1120.0,debit_card,payment,transfer to account,u012,u007
+4,2023-09-06 17:44:14,1291.0,moneyfund,payment,transfer to account,u001,u012
+5,2023-09-06 19:35:41,600.0,debit_card,payment,instant transfer,u015,u008
+6,2023-09-06 20:04:06,3130.0,other,transfer to card,others,u008,u009
+7,2023-09-06 20:04:06,2848.0,balance,transfer to card,others,u008,u009
+8,2023-09-06 20:04:06,3050.0,other,transfer to card,others,u008,u004
+9,2023-09-06 20:04:25,3048.0,balance,transfer to card,others,u008,u016
+10,2023-09-06 20:04:44,2938.0,balance,transfer to card,others,u008,u016
+11,2023-09-06 20:22:18,1000.0,moneyfund,payment,instant transfer,u005,u004
+12,2023-09-06 20:37:11,2800.0,credit_card,payment,credit payment,u003,u013
+13,2023-09-06 20:38:16,500.5,balance,transfer to card,others,u017,u006
+14,2023-09-06 20:38:19,1000.0,debit_card,transfer to card,transfer to card,u004,u016
+15,2023-09-06 20:41:47,900.0,balance,transfer to card,others,u017,u006
+16,2023-09-06 20:44:02,2800.0,credit_card,payment,O2O,u013,u000
+17,2023-09-06 20:44:09,2800.0,debit_card,payment,instant transfer,u000,u003
+18,2023-09-06 20:51:28,499.0,debit_card,payment,tangible goods trade,u017,u009
+19,2023-09-06 21:00:09,1200.0,balance,transfer to card,transfer to card,u004,u008
+20,2023-09-06 21:00:27,1000.0,moneyfund,transfer to card,transfer to card,u004,u005
+21,2023-09-06 22:04:06,1000.0,debit_card,payment,transfer to account,u011,u007
+22,2023-09-06 22:28:37,2400.0,debit_card,payment,instant transfer,u004,u016
+23,2023-09-06 22:29:38,1300.0,moneyfund,payment,instant transfer,u004,u008
+24,2023-09-06 22:55:14,1900.0,balance,transfer to card,others,u004,u015
+25,2023-09-06 23:09:50,10000.0,balance,payment,transfer to account,u002,u009
+26,2023-09-06 23:12:20,677.02,debit_card,payment,instant transfer,u006,u004
+27,2023-09-06 23:14:21,612.0,debit_card,payment,instant transfer,u006,u005
+28,2023-09-06 23:28:19,10000.0,balance,payment,transfer to account,u002,u007

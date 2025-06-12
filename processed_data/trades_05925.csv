@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-12 01:32:19,700.0,balance,transfer to card,others,u006,u019
+1,2023-09-12 02:24:20,499.99,other,payment,instant transfer,u002,u007
+2,2023-09-12 14:45:24,10000.0,moneyfund,transfer to card,transfer to card,u022,u004
+3,2023-09-12 15:03:19,40040.0,balance,transfer to card,transfer to card,u022,u019
+4,2023-09-12 15:05:35,24000.0,balance,transfer to card,transfer to card,u022,u015
+5,2023-09-12 15:09:17,2400.0,balance,transfer to card,transfer to card,u022,u003
+6,2023-09-12 15:10:18,20000.0,moneyfund,transfer to card,transfer to card,u022,u025
+7,2023-09-12 15:11:19,20000.0,balance,transfer to card,others,u022,u004
+8,2023-09-12 15:13:43,10000.0,balance,payment,transfer to account,u021,u002
+9,2023-09-12 15:19:43,10000.0,moneyfund,payment,transfer to account,u022,u001
+10,2023-09-12 16:37:47,1001.0,balance,transfer to card,others,u005,u020
+11,2023-09-12 16:57:32,1680.0,credit_card,payment,O2O,u009,u008
+12,2023-09-12 17:36:46,500.0,alicredit,payment,O2O,u014,u013
+13,2023-09-12 18:28:01,5400.0,balance,transfer to card,transfer to card,u015,u022
+14,2023-09-12 18:59:30,9000.0,credit_card,payment,O2O,u019,u006
+15,2023-09-12 19:31:34,1100.0,balance,payment,transfer to account,u017,u020
+16,2023-09-12 19:31:49,1000.0,moneyfund,payment,transfer to account,u017,u020
+17,2023-09-12 19:33:11,1290.0,balance,payment,transfer to account,u017,u024
+18,2023-09-12 20:54:26,3000.0,balance,transfer to card,others,u020,u005
+19,2023-09-12 22:05:51,5600.0,debit_card,payment,instant transfer,u026,u018
+20,2023-09-12 22:06:46,5600.0,balance,payment,tangible goods trade,u018,u023
+21,2023-09-12 22:10:16,5600.0,moneyfund,payment,instant transfer,u023,u026
+22,2023-09-12 22:26:21,2000.0,debit_card,payment,transfer to account,u000,u012
+23,2023-09-12 22:34:08,1000.0,debit_card,payment,transfer to account,u011,u005
+24,2023-09-12 22:59:27,3000.0,balance,payment,instant transfer,u000,u006
+25,2023-09-12 23:16:19,1000.0,balance,payment,transfer to account,u026,u010
+26,2023-09-12 23:41:37,957.0,credit_card,payment,digital goods trade,u016,u014

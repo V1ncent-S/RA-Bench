@@ -1,0 +1,31 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-07 14:31:39,3347.0,credit_card,payment,tangible goods trade,u001,u016
+1,2023-09-07 14:36:25,1120.0,moneyfund,payment,tangible goods trade,u010,u015
+2,2023-09-07 18:40:50,499.0,alicredit,payment,instant transfer,u008,u014
+3,2023-09-07 18:41:57,548.0,balance,payment,instant transfer,u008,u007
+4,2023-09-07 19:01:06,50000.0,balance,transfer to card,others,u000,u008
+5,2023-09-07 19:08:06,4600.0,debit_card,payment,instant transfer,u008,u011
+6,2023-09-07 19:13:12,45045.0,balance,transfer to card,others,u000,u007
+7,2023-09-07 19:13:49,50000.0,balance,transfer to card,others,u000,u008
+8,2023-09-07 19:22:12,500.0,debit_card,payment,instant transfer,u007,u017
+9,2023-09-07 19:53:11,598.0,debit_card,payment,instant transfer,u007,u000
+10,2023-09-07 21:30:54,500.0,moneyfund,payment,instant transfer,u014,u000
+11,2023-09-07 21:42:49,2002.0,debit_card,transfer to card,transfer to card,u011,u017
+12,2023-09-07 21:43:52,2002.0,balance,transfer to card,transfer to card,u011,u013
+13,2023-09-07 21:46:25,2000.0,balance,transfer to card,transfer to card,u011,u017
+14,2023-09-07 21:47:56,2250.0,balance,transfer to card,transfer to card,u011,u008
+15,2023-09-07 21:48:42,2000.0,balance,transfer to card,transfer to card,u011,u017
+16,2023-09-07 21:49:10,1500.0,debit_card,transfer to card,transfer to card,u011,u004
+17,2023-09-07 21:50:26,3002.0,balance,transfer to card,transfer to card,u011,u004
+18,2023-09-07 21:59:18,898.0,debit_card,payment,tangible goods trade,u004,u013
+19,2023-09-07 22:01:13,1290.0,balance,payment,instant transfer,u012,u010
+20,2023-09-07 22:29:05,1000.0,balance,transfer to card,others,u007,u016
+21,2023-09-07 22:34:04,790.0,moneyfund,payment,transfer to account,u006,u008
+22,2023-09-07 22:35:09,4000.0,balance,payment,transfer to account,u006,u009
+23,2023-09-07 22:40:33,5749.0,balance,payment,transfer to account,u006,u008
+24,2023-09-07 23:19:37,2080.0,alicredit,payment,tangible goods trade,u015,u005
+25,2023-09-07 23:21:25,1400.0,debit_card,payment,instant transfer,u018,u003
+26,2023-09-07 23:25:05,1400.0,credit_card,payment,tangible goods trade,u003,u019
+27,2023-09-07 23:29:49,1400.0,moneyfund,payment,instant transfer,u019,u018
+28,2023-09-07 23:34:32,1797.0,debit_card,payment,instant transfer,u017,u002
+29,2023-09-07 23:49:47,2000.0,moneyfund,transfer to card,transfer to card,u011,u017

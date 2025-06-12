@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-01 12:37:37,10000.0,balance,transfer to card,transfer to card,u017,u002
+1,2023-09-01 13:39:02,3000.0,debit_card,payment,transfer to account,u003,u005
+2,2023-09-01 15:24:46,1200.0,balance,transfer to card,others,u011,u000
+3,2023-09-01 17:32:53,1220.0,balance,payment,credit payment,u007,u005
+4,2023-09-01 17:58:24,1000.0,credit_card,payment,instant transfer,u013,u007
+5,2023-09-01 19:10:04,500.0,debit_card,payment,transfer to account,u013,u001
+6,2023-09-01 19:45:36,1000.0,moneyfund,payment,transfer to account,u015,u005
+7,2023-09-01 19:52:30,6200.0,balance,payment,instant transfer,u004,u012
+8,2023-09-01 19:54:12,6200.0,moneyfund,payment,instant transfer,u012,u014
+9,2023-09-01 19:54:33,6200.0,debit_card,payment,transfer to account,u014,u004
+10,2023-09-01 20:20:49,3000.0,balance,transfer to card,transfer to card,u001,u015
+11,2023-09-01 20:22:05,3000.0,balance,transfer to card,transfer to card,u001,u015
+12,2023-09-01 20:22:59,2680.0,balance,transfer to card,transfer to card,u001,u005
+13,2023-09-01 20:23:46,2900.0,moneyfund,transfer to card,transfer to card,u001,u016
+14,2023-09-01 20:24:15,2820.0,balance,transfer to card,transfer to card,u001,u015
+15,2023-09-01 20:24:58,3000.0,balance,transfer to card,transfer to card,u001,u015
+16,2023-09-01 20:25:36,3503.5,balance,transfer to card,transfer to card,u001,u005
+17,2023-09-01 20:26:13,2995.0,debit_card,transfer to card,transfer to card,u001,u017
+18,2023-09-01 20:26:47,3003.0,debit_card,transfer to card,transfer to card,u001,u015
+19,2023-09-01 20:33:43,7500.0,moneyfund,payment,transfer to account,u004,u008
+20,2023-09-01 20:37:42,7500.0,debit_card,payment,transfer to account,u008,u010
+21,2023-09-01 20:39:40,7500.0,moneyfund,payment,transfer to account,u010,u004
+22,2023-09-01 21:02:09,2000.0,moneyfund,payment,transfer to account,u003,u005
+23,2023-09-01 21:11:51,555.0,balance,payment,instant transfer,u016,u017
+24,2023-09-01 21:28:50,500.0,debit_card,payment,instant transfer,u004,u009
+25,2023-09-01 23:12:37,750.0,alicredit,payment,instant transfer,u018,u006

@@ -1,0 +1,6 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-10 15:35:05,500.0,debit_card,payment,O2O,u000,u003
+1,2023-09-10 22:14:34,740.0,debit_card,payment,O2O,u005,u001
+2,2023-09-10 23:30:22,3800.0,,payment,tangible goods trade,u004,u002
+3,2023-09-10 23:30:26,3800.0,alicredit,payment,transfer to account,u002,u006
+4,2023-09-10 23:38:12,3800.0,debit_card,payment,transfer to account,u006,u004

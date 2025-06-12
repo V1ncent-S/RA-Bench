@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-15 10:46:10,1260.0,moneyfund,payment,transfer to account,u009,u017
+1,2023-09-15 14:09:21,1000.0,moneyfund,payment,transfer to account,u012,u016
+2,2023-09-15 15:44:16,1001.0,debit_card,transfer to card,transfer to card,u010,u005
+3,2023-09-15 16:32:51,1000.0,debit_card,payment,instant transfer,u015,u013
+4,2023-09-15 16:52:58,4800.0,moneyfund,payment,transfer to account,u012,u016
+5,2023-09-15 17:11:44,2001.0,balance,transfer to card,transfer to card,u010,u019
+6,2023-09-15 17:12:14,1200.0,moneyfund,transfer to card,transfer to card,u010,u009
+7,2023-09-15 17:13:08,1001.0,moneyfund,transfer to card,transfer to card,u010,u003
+8,2023-09-15 17:15:41,1696.0,balance,transfer to card,transfer to card,u010,u009
+9,2023-09-15 17:15:58,1000.0,balance,transfer to card,transfer to card,u010,u003
+10,2023-09-15 17:16:02,1900.0,balance,transfer to card,transfer to card,u010,u006
+11,2023-09-15 17:16:20,1501.5,debit_card,transfer to card,transfer to card,u010,u003
+12,2023-09-15 18:31:01,500.0,debit_card,payment,instant transfer,u006,u009
+13,2023-09-15 18:33:25,500.0,moneyfund,payment,instant transfer,u006,u004
+14,2023-09-15 19:10:26,2000.0,moneyfund,payment,instant transfer,u011,u002
+15,2023-09-15 19:47:19,499.0,debit_card,payment,instant transfer,u005,u000
+16,2023-09-15 19:50:13,680.0,debit_card,payment,instant transfer,u005,u003
+17,2023-09-15 20:22:27,500.0,alicredit,payment,O2O,u005,u013
+18,2023-09-15 21:56:58,1000.0,balance,payment,transfer to account,u014,u018
+19,2023-09-15 22:16:13,3000.0,moneyfund,payment,transfer to account,u016,u000
+20,2023-09-15 22:17:54,2600.0,debit_card,payment,instant transfer,u011,u020
+21,2023-09-15 22:24:35,2600.0,moneyfund,payment,instant transfer,u020,u001
+22,2023-09-15 22:24:50,2600.0,debit_card,payment,instant transfer,u001,u011
+23,2023-09-15 23:36:32,900.0,balance,payment,instant transfer,u017,u007
+24,2023-09-15 23:44:30,2000.0,balance,transfer to card,others,u018,u014
+25,2023-09-15 23:52:24,1000.0,moneyfund,payment,transfer to account,u008,u015

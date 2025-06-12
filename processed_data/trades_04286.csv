@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-03 15:53:27,1280.0,debit_card,payment,instant transfer,u022,u021
+1,2023-09-03 16:38:10,5000.0,balance,transfer to card,others,u004,u020
+2,2023-09-03 16:51:50,5400.0,credit_card,payment,tangible goods trade,u009,u016
+3,2023-09-03 16:55:34,5400.0,balance,payment,instant transfer,u016,u008
+4,2023-09-03 16:55:44,5400.0,moneyfund,payment,O2O,u008,u009
+5,2023-09-03 19:21:23,10000.0,balance,transfer to card,others,u019,u010
+6,2023-09-03 19:21:45,16031.49,balance,transfer to card,others,u019,u000
+7,2023-09-03 19:25:09,5000.0,balance,payment,transfer to account,u019,u010
+8,2023-09-03 19:28:23,500.0,debit_card,payment,transfer to account,u019,u012
+9,2023-09-03 19:34:20,1090.0,debit_card,payment,tangible goods trade,u000,u002
+10,2023-09-03 20:05:47,1999.0,debit_card,payment,instant transfer,u013,u018
+11,2023-09-03 20:10:55,2100.0,debit_card,payment,O2O,u006,u003
+12,2023-09-03 20:17:02,1500.0,debit_card,payment,instant transfer,u013,u018
+13,2023-09-03 20:29:46,5000.0,moneyfund,payment,transfer to account,u019,u001
+14,2023-09-03 21:08:02,1750.0,balance,payment,transfer to account,u013,u005
+15,2023-09-03 21:25:47,6159.0,balance,transfer to card,others,u014,u022
+16,2023-09-03 22:19:33,5700.0,balance,payment,instant transfer,u013,u015
+17,2023-09-03 22:23:24,5700.0,balance,payment,transfer to account,u015,u007
+18,2023-09-03 22:25:48,1000.0,debit_card,payment,transfer to account,u011,u019
+19,2023-09-03 22:27:11,1500.0,balance,payment,transfer to account,u011,u016
+20,2023-09-03 22:28:17,5700.0,moneyfund,payment,transfer to account,u007,u013
+21,2023-09-03 22:46:52,30000.0,balance,transfer to card,others,u017,u016
+22,2023-09-03 22:48:09,30000.0,balance,transfer to card,others,u017,u001
+23,2023-09-03 22:48:09,5000.0,balance,transfer to card,others,u017,u019
+24,2023-09-03 22:55:50,17100.0,balance,payment,transfer to account,u001,u002
+25,2023-09-03 23:07:49,10000.0,moneyfund,payment,transfer to account,u001,u021

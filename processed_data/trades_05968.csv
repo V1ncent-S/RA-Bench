@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-08 01:38:37,565.0,debit_card,payment,instant transfer,u019,u011
+1,2023-09-08 02:26:04,600.0,balance,transfer to card,others,u019,u002
+2,2023-09-08 16:12:24,10000.0,moneyfund,payment,transfer to account,u013,u001
+3,2023-09-08 17:06:48,11300.0,balance,payment,instant transfer,u013,u004
+4,2023-09-08 18:46:54,2200.0,alicredit,payment,instant transfer,u007,u016
+5,2023-09-08 18:48:11,2200.0,alicredit,payment,tangible goods trade,u016,u006
+6,2023-09-08 18:53:37,2200.0,debit_card,payment,instant transfer,u006,u007
+7,2023-09-08 18:58:09,1203.0,debit_card,transfer to card,transfer to card,u017,u008
+8,2023-09-08 20:16:59,533.0,debit_card,payment,instant transfer,u015,u009
+9,2023-09-08 20:17:06,500.0,moneyfund,payment,transfer to account,u015,u000
+10,2023-09-08 20:53:59,1000.0,balance,transfer to card,others,u000,u019
+11,2023-09-08 21:31:01,1000.0,debit_card,payment,instant transfer,u000,u003
+12,2023-09-08 22:16:12,1480.0,other,payment,instant transfer,u020,u018
+13,2023-09-08 22:16:23,10000.0,debit_card,payment,O2O,u014,u007
+14,2023-09-08 22:17:24,1709.0,debit_card,payment,instant transfer,u020,u008
+15,2023-09-08 23:09:15,1000.0,debit_card,payment,instant transfer,u021,u014
+16,2023-09-08 23:09:21,2017.0,credit_card,payment,tangible goods trade,u010,u008
+17,2023-09-08 23:12:53,2000.0,moneyfund,payment,transfer to account,u008,u010
+18,2023-09-08 23:15:03,500.0,balance,transfer to card,transfer to card,u012,u013
+19,2023-09-08 23:19:03,999.0,balance,payment,instant transfer,u008,u010
+20,2023-09-08 23:19:11,1200.0,debit_card,payment,tangible goods trade,u003,u015
+21,2023-09-08 23:22:48,648.0,debit_card,payment,instant transfer,u021,u014
+22,2023-09-08 23:29:45,1398.0,alicredit,payment,tangible goods trade,u003,u019
+23,2023-09-08 23:47:17,798.0,moneyfund,payment,instant transfer,u008,u017
+24,2023-09-08 23:52:37,1000.0,balance,payment,instant transfer,u021,u007
+25,2023-09-08 23:59:05,2980.0,debit_card,payment,instant transfer,u005,u012

@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-05 06:06:17,500.0,balance,payment,instant transfer,u015,u025
+1,2023-09-05 08:06:16,594.0,debit_card,payment,instant transfer,u016,u006
+2,2023-09-05 08:06:17,799.0,debit_card,payment,instant transfer,u016,u014
+3,2023-09-05 10:49:56,950.0,debit_card,payment,instant transfer,u005,u003
+4,2023-09-05 12:02:18,688.0,moneyfund,payment,tangible goods trade,u007,u004
+5,2023-09-05 16:45:40,573.0,moneyfund,payment,instant transfer,u006,u024
+6,2023-09-05 17:22:27,1900.0,balance,payment,instant transfer,u003,u000
+7,2023-09-05 17:22:37,1900.0,moneyfund,payment,instant transfer,u000,u012
+8,2023-09-05 17:28:19,1900.0,debit_card,payment,transfer to account,u012,u003
+9,2023-09-05 19:07:00,7999.0,moneyfund,payment,transfer to account,u017,u020
+10,2023-09-05 19:11:21,1000.0,balance,payment,transfer to account,u026,u001
+11,2023-09-05 19:37:29,30000.0,balance,transfer to card,transfer to card,u020,u018
+12,2023-09-05 20:52:58,4800.0,moneyfund,payment,instant transfer,u022,u009
+13,2023-09-05 20:58:18,4800.0,,payment,instant transfer,u009,u023
+14,2023-09-05 20:59:38,4800.0,moneyfund,payment,transfer to account,u023,u022
+15,2023-09-05 21:33:33,2000.0,balance,payment,instant transfer,u025,u015
+16,2023-09-05 21:34:03,3900.0,credit_card,payment,transfer to account,u003,u019
+17,2023-09-05 21:36:50,2000.0,debit_card,payment,instant transfer,u025,u004
+18,2023-09-05 21:37:40,3900.0,credit_card,payment,instant transfer,u019,u008
+19,2023-09-05 21:38:41,3900.0,balance,payment,transfer to account,u008,u003
+20,2023-09-05 22:10:53,2035.0,debit_card,payment,O2O,u010,u004
+21,2023-09-05 22:28:18,49999.0,moneyfund,payment,instant transfer,u002,u011
+22,2023-09-05 22:32:24,40000.0,moneyfund,payment,transfer to account,u002,u013
+23,2023-09-05 22:55:33,3200.0,balance,transfer to card,others,u024,u017
+24,2023-09-05 23:08:24,778.0,moneyfund,payment,instant transfer,u002,u011
+25,2023-09-05 23:58:16,1100.0,moneyfund,payment,instant transfer,u021,u025

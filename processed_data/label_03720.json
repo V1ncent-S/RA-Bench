@@ -1,0 +1,1 @@
+{"events": [{"pattern": "fifo", "trade_index": ["033", "035"]}, {"pattern": "fifo", "trade_index": ["028", "029"]}, {"pattern": "loop", "trade_index": ["010", "013", "014"]}, {"pattern": "loop", "trade_index": ["011", "012", "015"]}], "user_id": "u006"}

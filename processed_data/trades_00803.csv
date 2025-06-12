@@ -1,0 +1,33 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-07 02:36:49,500.0,moneyfund,payment,instant transfer,u018,u005
+1,2023-09-07 16:34:58,1716.0,credit_card,payment,instant transfer,u002,u016
+2,2023-09-07 17:00:19,700.0,balance,transfer to card,transfer to card,u001,u022
+3,2023-09-07 17:01:44,1001.0,debit_card,transfer to card,transfer to card,u001,u010
+4,2023-09-07 17:02:40,500.0,balance,payment,instant transfer,u009,u000
+5,2023-09-07 17:02:47,550.0,debit_card,payment,O2O,u000,u009
+6,2023-09-07 17:03:04,1000.0,balance,transfer to card,transfer to card,u001,u022
+7,2023-09-07 17:03:41,700.0,balance,transfer to card,transfer to card,u001,u003
+8,2023-09-07 17:03:56,900.0,moneyfund,transfer to card,transfer to card,u001,u020
+9,2023-09-07 17:23:54,800.8,balance,transfer to card,others,u016,u014
+10,2023-09-07 17:24:54,4000.0,balance,payment,transfer to account,u016,u026
+11,2023-09-07 18:04:37,500.0,debit_card,payment,transfer to account,u013,u021
+12,2023-09-07 19:44:13,630.0,balance,payment,tangible goods trade,u022,u009
+13,2023-09-07 19:47:59,1088.0,moneyfund,payment,transfer to account,u015,u001
+14,2023-09-07 19:51:58,499.0,credit_card,payment,instant transfer,u003,u001
+15,2023-09-07 20:09:21,1000.0,balance,payment,transfer to account,u016,u002
+16,2023-09-07 20:14:53,1299.0,debit_card,payment,tangible goods trade,u022,u005
+17,2023-09-07 20:42:37,10237.0,balance,payment,transfer to account,u025,u015
+18,2023-09-07 20:43:21,9000.0,moneyfund,payment,transfer to account,u025,u006
+19,2023-09-07 21:07:14,1800.0,debit_card,payment,instant transfer,u011,u019
+20,2023-09-07 21:09:37,1800.0,moneyfund,payment,instant transfer,u019,u017
+21,2023-09-07 21:14:26,1800.0,debit_card,payment,O2O,u017,u011
+22,2023-09-07 21:33:45,598.0,balance,payment,instant transfer,u013,u009
+23,2023-09-07 22:10:23,1000.0,debit_card,payment,instant transfer,u013,u021
+24,2023-09-07 22:11:41,1000.0,balance,payment,instant transfer,u024,u012
+25,2023-09-07 22:47:56,1999.0,balance,payment,O2O,u008,u014
+26,2023-09-07 23:04:28,1220.0,debit_card,payment,instant transfer,u010,u009
+27,2023-09-07 23:04:40,1000.0,debit_card,payment,instant transfer,u015,u010
+28,2023-09-07 23:23:12,683.0,debit_card,payment,credit payment,u014,u005
+29,2023-09-07 23:25:26,2000.0,moneyfund,payment,instant transfer,u004,u023
+30,2023-09-07 23:44:08,799.95,debit_card,payment,instant transfer,u010,u007
+31,2023-09-07 23:53:49,3618.23,balance,payment,instant transfer,u025,u015

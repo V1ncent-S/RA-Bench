@@ -1,0 +1,34 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-08 01:03:46,1000.0,balance,transfer to card,others,u019,u014
+1,2023-09-08 01:04:07,6000.0,balance,transfer to card,others,u019,u018
+2,2023-09-08 09:02:58,500.0,balance,transfer to card,transfer to card,u006,u000
+3,2023-09-08 09:03:07,1939.0,balance,transfer to card,transfer to card,u006,u016
+4,2023-09-08 09:03:30,1000.0,balance,transfer to card,transfer to card,u006,u018
+5,2023-09-08 09:03:47,1500.0,debit_card,transfer to card,transfer to card,u006,u015
+6,2023-09-08 09:04:13,1000.0,debit_card,transfer to card,transfer to card,u006,u008
+7,2023-09-08 09:04:38,1700.0,balance,transfer to card,transfer to card,u006,u008
+8,2023-09-08 09:07:20,615.0,moneyfund,payment,instant transfer,u006,u011
+9,2023-09-08 09:10:19,1500.0,balance,payment,instant transfer,u006,u018
+10,2023-09-08 10:28:04,1079.08,alicredit,payment,instant transfer,u016,u001
+11,2023-09-08 12:26:38,6000.0,balance,transfer to card,others,u019,u014
+12,2023-09-08 13:28:14,1000.0,balance,transfer to card,others,u019,u001
+13,2023-09-08 13:28:25,2000.0,balance,transfer to card,others,u019,u001
+14,2023-09-08 14:25:55,50050.0,moneyfund,transfer to card,transfer to card,u011,u021
+15,2023-09-08 14:30:24,20000.0,balance,payment,instant transfer,u015,u006
+16,2023-09-08 15:00:52,1500.0,debit_card,payment,instant transfer,u019,u001
+17,2023-09-08 15:05:02,671.0,moneyfund,payment,instant transfer,u019,u010
+18,2023-09-08 15:13:55,1800.0,balance,payment,instant transfer,u003,u018
+19,2023-09-08 15:39:39,8000.0,moneyfund,payment,transfer to account,u015,u014
+20,2023-09-08 16:18:01,1399.0,debit_card,payment,instant transfer,u001,u015
+21,2023-09-08 16:19:03,1693.0,balance,payment,instant transfer,u001,u005
+22,2023-09-08 16:41:10,2000.0,moneyfund,payment,transfer to account,u002,u011
+23,2023-09-08 21:10:30,5300.0,balance,payment,tangible goods trade,u018,u003
+24,2023-09-08 21:46:10,517.0,credit_card,payment,O2O,u012,u014
+25,2023-09-08 22:15:59,499.0,debit_card,payment,instant transfer,u020,u009
+26,2023-09-08 22:18:27,500.0,alicredit,payment,instant transfer,u020,u013
+27,2023-09-08 22:25:39,1000.0,balance,transfer to card,transfer to card,u004,u015
+28,2023-09-08 22:26:39,900.9,moneyfund,transfer to card,transfer to card,u004,u018
+29,2023-09-08 22:49:38,10000.0,balance,transfer to card,others,u010,u017
+30,2023-09-08 23:11:48,940.0,moneyfund,payment,instant transfer,u000,u021
+31,2023-09-08 23:19:11,599.0,credit_card,payment,instant transfer,u021,u017
+32,2023-09-08 23:57:44,888.0,debit_card,payment,instant transfer,u007,u004

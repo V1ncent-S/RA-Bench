@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-02 02:01:13,500.0,balance,transfer to card,transfer to card,u009,u004
+1,2023-09-02 12:22:46,528.0,credit_card,payment,instant transfer,u020,u011
+2,2023-09-02 17:55:27,828.0,moneyfund,payment,transfer to account,u019,u009
+3,2023-09-02 18:19:39,777.0,moneyfund,payment,instant transfer,u002,u003
+4,2023-09-02 18:33:24,1000.0,moneyfund,payment,instant transfer,u017,u002
+5,2023-09-02 18:35:17,1688.0,moneyfund,payment,instant transfer,u017,u002
+6,2023-09-02 18:53:36,1000.0,balance,payment,instant transfer,u017,u002
+7,2023-09-02 19:19:33,8200.0,balance,payment,transfer to account,u006,u012
+8,2023-09-02 19:34:18,1499.0,debit_card,payment,instant transfer,u023,u009
+9,2023-09-02 20:33:21,1300.0,debit_card,payment,instant transfer,u011,u009
+10,2023-09-02 20:37:14,20000.0,moneyfund,transfer to card,transfer to card,u015,u011
+11,2023-09-02 20:38:21,10000.0,moneyfund,transfer to card,transfer to card,u015,u000
+12,2023-09-02 20:38:44,10000.0,balance,transfer to card,transfer to card,u015,u016
+13,2023-09-02 20:39:45,50000.0,balance,transfer to card,others,u015,u000
+14,2023-09-02 21:20:22,1000.0,balance,payment,O2O,u007,u004
+15,2023-09-02 22:47:50,551.0,other,transfer to card,others,u012,u024
+16,2023-09-02 22:49:39,600.0,balance,transfer to card,others,u012,u005
+17,2023-09-02 23:07:13,1000.0,debit_card,payment,instant transfer,u014,u007
+18,2023-09-02 23:27:28,540.0,balance,payment,transfer to account,u012,u005
+19,2023-09-02 23:30:29,613.0,debit_card,payment,transfer to account,u012,u006
+20,2023-09-02 23:32:52,2000.0,moneyfund,payment,instant transfer,u001,u022
+21,2023-09-02 23:33:44,1400.0,moneyfund,payment,instant transfer,u008,u022
+22,2023-09-02 23:33:57,1600.0,moneyfund,payment,instant transfer,u010,u022
+23,2023-09-02 23:37:05,1500.0,moneyfund,payment,instant transfer,u022,u013
+24,2023-09-02 23:37:30,1500.0,moneyfund,payment,instant transfer,u022,u021
+25,2023-09-02 23:40:07,2000.0,moneyfund,payment,instant transfer,u022,u018

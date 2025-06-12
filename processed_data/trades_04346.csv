@@ -1,0 +1,29 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-14 11:59:04,3000.0,balance,payment,O2O,u003,u013
+1,2023-09-14 11:59:10,3000.0,moneyfund,payment,O2O,u013,u020
+2,2023-09-14 12:00:43,4000.0,moneyfund,payment,O2O,u003,u004
+3,2023-09-14 12:04:07,4000.0,debit_card,payment,O2O,u004,u020
+4,2023-09-14 13:13:09,2272.0,moneyfund,payment,tangible goods trade,u019,u015
+5,2023-09-14 14:32:28,1059.0,debit_card,payment,instant transfer,u013,u016
+6,2023-09-14 14:52:23,1000.0,credit_card,payment,O2O,u013,u016
+7,2023-09-14 15:37:28,3030.0,balance,payment,transfer to account,u017,u015
+8,2023-09-14 16:14:01,2000.0,moneyfund,payment,transfer to account,u007,u010
+9,2023-09-14 16:48:41,778.0,moneyfund,payment,tangible goods trade,u001,u005
+10,2023-09-14 17:03:55,4500.0,credit_card,payment,instant transfer,u002,u005
+11,2023-09-14 17:35:58,4980.0,moneyfund,payment,tangible goods trade,u001,u003
+12,2023-09-14 18:38:18,2460.0,credit_card,payment,instant transfer,u019,u001
+13,2023-09-14 18:55:34,9189.7,balance,transfer to card,others,u001,u003
+14,2023-09-14 18:56:15,10000.0,moneyfund,transfer to card,others,u001,u018
+15,2023-09-14 19:07:19,7150.0,balance,transfer to card,others,u001,u005
+16,2023-09-14 19:54:38,520.0,debit_card,payment,transfer to account,u015,u019
+17,2023-09-14 19:57:00,1000.0,debit_card,payment,instant transfer,u015,u007
+18,2023-09-14 22:40:07,2000.0,balance,payment,instant transfer,u003,u009
+19,2023-09-14 23:07:08,3000.0,debit_card,payment,O2O,u014,u003
+20,2023-09-14 23:07:28,1198.0,moneyfund,payment,instant transfer,u009,u006
+21,2023-09-14 23:08:19,1354.0,debit_card,payment,O2O,u014,u021
+22,2023-09-14 23:12:07,2000.0,moneyfund,payment,transfer to account,u008,u005
+23,2023-09-14 23:13:49,500.0,debit_card,payment,instant transfer,u004,u000
+24,2023-09-14 23:16:08,3000.0,balance,payment,O2O,u014,u001
+25,2023-09-14 23:20:19,2855.0,balance,payment,transfer to account,u008,u015
+26,2023-09-14 23:56:58,1799.0,moneyfund,payment,tangible goods trade,u011,u012
+27,2023-09-14 23:58:11,1310.0,moneyfund,payment,tangible goods trade,u011,u012

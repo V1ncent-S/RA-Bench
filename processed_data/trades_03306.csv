@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-02 09:20:21,1985.0,credit_card,payment,O2O,u018,u019
+1,2023-09-02 10:08:39,1974.59,balance,transfer to card,others,u010,u015
+2,2023-09-02 12:09:38,1000.0,balance,transfer to card,transfer to card,u017,u007
+3,2023-09-02 12:57:49,1500.0,balance,transfer to card,transfer to card,u017,u006
+4,2023-09-02 13:16:04,1500.0,debit_card,transfer to card,transfer to card,u017,u001
+5,2023-09-02 13:55:21,2050.0,moneyfund,payment,tangible goods trade,u010,u012
+6,2023-09-02 15:07:43,641.0,moneyfund,payment,tangible goods trade,u017,u019
+7,2023-09-02 18:58:36,598.0,moneyfund,payment,tangible goods trade,u006,u018
+8,2023-09-02 20:20:26,4000.0,moneyfund,payment,instant transfer,u009,u018
+9,2023-09-02 20:21:43,920.0,moneyfund,payment,instant transfer,u009,u018
+10,2023-09-02 20:44:47,799.0,balance,payment,instant transfer,u004,u018
+11,2023-09-02 21:52:14,50000.0,moneyfund,transfer to card,transfer to card,u016,u021
+12,2023-09-02 21:52:44,8000.0,balance,transfer to card,transfer to card,u016,u021
+13,2023-09-02 22:05:21,500.0,balance,payment,transfer to account,u016,u021
+14,2023-09-02 22:19:22,866.8,debit_card,payment,instant transfer,u019,u014
+15,2023-09-02 22:20:12,534.0,moneyfund,payment,tangible goods trade,u011,u013
+16,2023-09-02 22:35:14,3300.0,moneyfund,payment,instant transfer,u020,u003
+17,2023-09-02 22:37:15,3300.0,debit_card,payment,instant transfer,u003,u005
+18,2023-09-02 22:37:19,3300.0,debit_card,payment,instant transfer,u005,u020
+19,2023-09-02 22:37:56,1000.0,debit_card,payment,O2O,u001,u006
+20,2023-09-02 22:49:55,2000.0,moneyfund,payment,instant transfer,u006,u001
+21,2023-09-02 22:51:58,600.0,moneyfund,payment,instant transfer,u006,u007
+22,2023-09-02 23:21:35,50050.0,balance,transfer to card,withdrawal,u002,u001
+23,2023-09-02 23:25:57,1240.0,balance,payment,instant transfer,u004,u001
+24,2023-09-02 23:27:28,500.0,balance,transfer to card,withdrawal,u002,u004
+25,2023-09-02 23:27:47,50000.0,balance,transfer to card,withdrawal,u002,u004
+26,2023-09-02 23:29:27,1080.0,alicredit,payment,instant transfer,u008,u000

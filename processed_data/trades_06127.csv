@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-10 14:44:10,10000.0,balance,payment,transfer to account,u016,u008
+1,2023-09-10 15:52:46,2100.0,,payment,instant transfer,u009,u014
+2,2023-09-10 15:53:24,1300.0,,payment,instant transfer,u013,u014
+3,2023-09-10 15:55:46,1600.0,,payment,instant transfer,u004,u014
+4,2023-09-10 15:56:43,1800.0,,payment,instant transfer,u014,u006
+5,2023-09-10 15:58:49,1200.0,,payment,instant transfer,u014,u003
+6,2023-09-10 16:00:59,2000.0,,payment,instant transfer,u014,u010
+7,2023-09-10 17:25:44,900.0,balance,payment,transfer to account,u015,u008
+8,2023-09-10 19:21:36,2000.0,credit_card,payment,O2O,u007,u016
+9,2023-09-10 19:28:59,5445.3,balance,payment,instant transfer,u016,u007
+10,2023-09-10 20:05:46,1500.0,credit_card,payment,transfer to account,u009,u014
+11,2023-09-10 20:07:03,1300.0,credit_card,payment,transfer to account,u013,u014
+12,2023-09-10 20:08:11,1200.0,credit_card,payment,transfer to account,u004,u014
+13,2023-09-10 20:08:14,2100.0,credit_card,payment,transfer to account,u014,u006
+14,2023-09-10 20:12:34,1000.0,credit_card,payment,transfer to account,u014,u003
+15,2023-09-10 20:12:47,900.0,credit_card,payment,transfer to account,u014,u010
+16,2023-09-10 21:29:45,680.0,moneyfund,payment,transfer to account,u003,u000
+17,2023-09-10 21:37:51,4130.0,debit_card,payment,instant transfer,u000,u011
+18,2023-09-10 21:49:23,500.0,moneyfund,payment,transfer to account,u003,u008
+19,2023-09-10 22:02:13,1400.0,balance,payment,transfer to account,u005,u001
+20,2023-09-10 22:13:06,600.0,debit_card,payment,instant transfer,u001,u011
+21,2023-09-10 22:13:19,684.0,alicredit,payment,instant transfer,u001,u011
+22,2023-09-10 22:16:30,1199.0,debit_card,payment,instant transfer,u001,u008
+23,2023-09-10 22:39:18,10000.0,balance,transfer to card,others,u014,u012
+24,2023-09-10 23:13:05,1350.0,debit_card,payment,instant transfer,u005,u001
+25,2023-09-10 23:35:02,500.0,debit_card,payment,instant transfer,u002,u001
+26,2023-09-10 23:36:09,906.0,debit_card,payment,instant transfer,u002,u016

@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-04 10:46:09,1000.0,balance,payment,instant transfer,u022,u011
+1,2023-09-04 11:01:01,3200.0,debit_card,payment,O2O,u012,u014
+2,2023-09-04 12:47:52,1000.0,balance,payment,transfer to account,u012,u001
+3,2023-09-04 13:51:49,1000.0,balance,payment,transfer to account,u014,u018
+4,2023-09-04 14:07:39,1000.0,moneyfund,payment,instant transfer,u000,u009
+5,2023-09-04 14:39:11,800.0,moneyfund,payment,instant transfer,u000,u010
+6,2023-09-04 15:22:06,1000.0,balance,payment,transfer to account,u015,u019
+7,2023-09-04 17:07:15,1000.0,moneyfund,payment,transfer to account,u018,u014
+8,2023-09-04 17:12:48,500.0,moneyfund,payment,instant transfer,u022,u005
+9,2023-09-04 17:44:44,5367.0,moneyfund,payment,O2O,u010,u012
+10,2023-09-04 19:12:23,1000.0,balance,transfer to card,others,u009,u008
+11,2023-09-04 19:33:28,1000.0,moneyfund,payment,transfer to account,u003,u017
+12,2023-09-04 19:34:18,1000.0,balance,payment,transfer to account,u001,u013
+13,2023-09-04 19:52:52,2900.0,balance,payment,instant transfer,u021,u012
+14,2023-09-04 20:18:33,495.0,alicredit,payment,instant transfer,u007,u005
+15,2023-09-04 20:19:58,499.0,debit_card,payment,instant transfer,u007,u022
+16,2023-09-04 21:28:05,5000.0,balance,transfer to card,others,u011,u022
+17,2023-09-04 21:46:27,3200.0,balance,payment,O2O,u011,u022
+18,2023-09-04 21:47:24,1000.0,balance,payment,transfer to account,u004,u020
+19,2023-09-04 21:57:59,1030.0,moneyfund,payment,tangible goods trade,u016,u002
+20,2023-09-04 21:58:03,49999.0,moneyfund,payment,transfer to account,u004,u020
+21,2023-09-04 22:06:39,8000.0,moneyfund,transfer to card,transfer to card,u006,u008
+22,2023-09-04 22:50:39,798.0,balance,payment,transfer to account,u005,u022
+23,2023-09-04 23:05:21,1700.0,debit_card,payment,instant transfer,u004,u020
+24,2023-09-04 23:10:02,3000.0,debit_card,payment,transfer to account,u013,u001
+25,2023-09-04 23:18:46,2000.0,debit_card,payment,transfer to account,u008,u002
+26,2023-09-04 23:27:55,1990.0,debit_card,payment,tangible goods trade,u016,u002

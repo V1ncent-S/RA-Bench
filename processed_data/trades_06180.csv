@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-04 09:43:47,1000.0,credit_card,payment,O2O,u001,u021
+1,2023-09-04 14:37:07,5145.0,credit_card,payment,instant transfer,u012,u007
+2,2023-09-04 15:53:12,2000.0,debit_card,payment,transfer to account,u024,u021
+3,2023-09-04 16:08:07,500.5,balance,transfer to card,transfer to card,u010,u011
+4,2023-09-04 16:14:23,4000.0,balance,transfer to card,others,u012,u007
+5,2023-09-04 16:43:35,1000.0,moneyfund,payment,instant transfer,u010,u008
+6,2023-09-04 17:20:38,4004.0,balance,transfer to card,transfer to card,u007,u004
+7,2023-09-04 18:08:43,1000.0,moneyfund,payment,transfer to account,u013,u016
+8,2023-09-04 18:09:05,980.0,credit_card,payment,instant transfer,u013,u016
+9,2023-09-04 18:34:17,666.0,moneyfund,payment,instant transfer,u013,u016
+10,2023-09-04 18:52:03,1220.0,moneyfund,payment,transfer to account,u006,u010
+11,2023-09-04 19:07:21,20000.0,other,transfer to card,others,u000,u018
+12,2023-09-04 19:08:03,5005.0,balance,transfer to card,others,u000,u003
+13,2023-09-04 19:08:23,4993.0,balance,payment,transfer to account,u000,u018
+14,2023-09-04 19:39:16,2820.0,moneyfund,payment,O2O,u000,u003
+15,2023-09-04 20:51:48,2300.0,debit_card,payment,transfer to account,u023,u008
+16,2023-09-04 21:00:46,621.32,balance,payment,instant transfer,u011,u023
+17,2023-09-04 21:07:23,999.92,debit_card,payment,instant transfer,u016,u009
+18,2023-09-04 22:16:48,1000.0,credit_card,payment,O2O,u011,u006
+19,2023-09-04 22:34:25,500.0,moneyfund,payment,transfer to account,u015,u002
+20,2023-09-04 22:43:47,800.0,balance,payment,instant transfer,u020,u003
+21,2023-09-04 22:50:12,1000.0,balance,transfer to card,others,u003,u020
+22,2023-09-04 22:51:26,5999.0,balance,payment,transfer to account,u008,u022
+23,2023-09-04 22:54:23,9800.0,debit_card,payment,transfer to account,u007,u019
+24,2023-09-04 22:55:17,9800.0,balance,payment,instant transfer,u019,u017
+25,2023-09-04 23:01:34,9800.0,moneyfund,payment,instant transfer,u017,u007
+26,2023-09-04 23:41:39,596.0,balance,transfer to card,others,u005,u014

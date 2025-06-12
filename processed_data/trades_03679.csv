@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-07 01:56:20,980.0,balance,transfer to card,transfer to card,u018,u007
+1,2023-09-07 01:58:21,520.0,balance,transfer to card,transfer to card,u018,u007
+2,2023-09-07 01:59:04,800.8,balance,transfer to card,transfer to card,u018,u007
+3,2023-09-07 02:37:01,1001.0,balance,transfer to card,transfer to card,u018,u007
+4,2023-09-07 12:37:51,2000.0,balance,transfer to card,transfer to card,u018,u007
+5,2023-09-07 14:16:25,2998.0,moneyfund,payment,transfer to account,u014,u017
+6,2023-09-07 16:39:49,1076.0,debit_card,payment,tangible goods trade,u003,u010
+7,2023-09-07 19:30:36,600.0,debit_card,payment,O2O,u013,u002
+8,2023-09-07 19:33:18,600.0,balance,payment,O2O,u013,u019
+9,2023-09-07 20:17:12,1366.0,moneyfund,payment,instant transfer,u004,u014
+10,2023-09-07 20:21:39,656.0,moneyfund,payment,instant transfer,u004,u016
+11,2023-09-07 21:00:57,2000.0,balance,transfer to card,others,u012,u005
+12,2023-09-07 21:07:00,9000.0,moneyfund,payment,instant transfer,u013,u015
+13,2023-09-07 21:08:33,9000.0,debit_card,payment,instant transfer,u015,u006
+14,2023-09-07 21:10:57,9000.0,moneyfund,payment,transfer to account,u006,u013
+15,2023-09-07 22:15:11,1000.0,balance,transfer to card,transfer to card,u012,u003
+16,2023-09-07 23:01:47,600.0,debit_card,payment,instant transfer,u009,u014
+17,2023-09-07 23:04:06,3360.0,balance,transfer to card,others,u008,u005
+18,2023-09-07 23:04:26,50050.0,balance,transfer to card,others,u008,u005
+19,2023-09-07 23:04:28,20000.0,balance,transfer to card,others,u008,u005
+20,2023-09-07 23:08:12,30000.0,moneyfund,payment,transfer to account,u008,u011
+21,2023-09-07 23:19:51,1000.0,balance,payment,instant transfer,u011,u016
+22,2023-09-07 23:24:19,1123.12,balance,transfer to card,transfer to card,u005,u003
+23,2023-09-07 23:53:29,4500.0,balance,payment,instant transfer,u013,u000
+24,2023-09-07 23:59:26,4500.0,debit_card,payment,transfer to account,u000,u001
+25,2023-09-07 23:59:31,4500.0,balance,payment,transfer to account,u001,u013

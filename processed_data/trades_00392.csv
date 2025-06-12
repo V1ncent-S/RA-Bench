@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-13 14:43:06,3200.0,balance,payment,transfer to account,u020,u015
+1,2023-09-13 16:23:25,7110.0,moneyfund,payment,transfer to account,u004,u006
+2,2023-09-13 17:18:42,1480.0,debit_card,payment,instant transfer,u003,u018
+3,2023-09-13 17:42:26,2400.0,balance,payment,instant transfer,u015,u000
+4,2023-09-13 17:56:57,9500.0,moneyfund,payment,O2O,u014,u002
+5,2023-09-13 18:01:13,9500.0,debit_card,payment,transfer to account,u002,u025
+6,2023-09-13 18:03:16,9500.0,credit_card,payment,instant transfer,u025,u014
+7,2023-09-13 18:31:10,500.0,debit_card,payment,instant transfer,u003,u017
+8,2023-09-13 18:33:02,1000.0,balance,payment,instant transfer,u016,u011
+9,2023-09-13 18:46:24,4943.0,moneyfund,payment,transfer to account,u001,u016
+10,2023-09-13 18:49:23,4000.0,balance,payment,transfer to account,u001,u013
+11,2023-09-13 18:52:57,1480.0,debit_card,payment,tangible goods trade,u005,u019
+12,2023-09-13 19:16:37,2050.0,debit_card,payment,tangible goods trade,u005,u021
+13,2023-09-13 19:51:42,1000.0,credit_card,payment,O2O,u024,u020
+14,2023-09-13 19:56:35,3800.0,credit_card,payment,instant transfer,u007,u008
+15,2023-09-13 20:00:35,3080.0,alicredit,payment,tangible goods trade,u005,u019
+16,2023-09-13 20:14:16,1000.0,debit_card,payment,transfer to account,u018,u013
+17,2023-09-13 20:25:10,600.0,alicredit,payment,O2O,u024,u020
+18,2023-09-13 20:25:39,4870.0,credit_card,payment,instant transfer,u010,u006
+19,2023-09-13 20:40:35,2000.0,other,payment,instant transfer,u018,u013
+20,2023-09-13 22:34:36,1000.0,balance,transfer to card,others,u022,u021
+21,2023-09-13 22:37:21,10000.0,balance,payment,transfer to account,u009,u024
+22,2023-09-13 23:44:13,1299.0,debit_card,payment,instant transfer,u000,u008
+23,2023-09-13 23:45:03,600.0,debit_card,payment,transfer to account,u012,u023
+24,2023-09-13 23:48:21,1000.0,debit_card,payment,instant transfer,u000,u011
+25,2023-09-13 23:48:42,1000.0,other,payment,instant transfer,u000,u011

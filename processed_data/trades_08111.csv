@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-01 06:02:34,1000.0,debit_card,transfer to card,transfer to card,u011,u004
+1,2023-09-01 06:08:04,1000.0,moneyfund,transfer to card,transfer to card,u011,u012
+2,2023-09-01 06:08:14,520.0,balance,transfer to card,transfer to card,u011,u004
+3,2023-09-01 08:06:07,500.0,moneyfund,payment,instant transfer,u011,u006
+4,2023-09-01 08:13:35,1600.0,debit_card,payment,instant transfer,u011,u006
+5,2023-09-01 09:41:30,700.0,moneyfund,payment,O2O,u003,u011
+6,2023-09-01 09:42:30,1400.0,moneyfund,payment,O2O,u005,u011
+7,2023-09-01 09:43:59,900.0,moneyfund,payment,O2O,u010,u011
+8,2023-09-01 09:47:10,1000.0,moneyfund,payment,O2O,u011,u016
+9,2023-09-01 09:48:33,600.0,moneyfund,payment,O2O,u011,u013
+10,2023-09-01 09:49:36,600.0,moneyfund,payment,O2O,u011,u015
+11,2023-09-01 09:49:46,800.0,moneyfund,payment,O2O,u011,u014
+12,2023-09-01 10:50:18,9999.0,balance,payment,O2O,u009,u000
+13,2023-09-01 13:51:44,965.0,balance,transfer to card,others,u017,u007
+14,2023-09-01 13:52:22,1000.0,alicredit,payment,instant transfer,u017,u002
+15,2023-09-01 18:32:02,1000.0,credit_card,payment,instant transfer,u008,u007
+16,2023-09-01 18:38:37,1300.0,balance,payment,transfer to account,u003,u011
+17,2023-09-01 18:38:54,2100.0,balance,payment,transfer to account,u005,u011
+18,2023-09-01 18:40:39,1600.0,balance,payment,transfer to account,u010,u011
+19,2023-09-01 18:41:05,1400.0,balance,payment,transfer to account,u011,u016
+20,2023-09-01 18:42:54,1200.0,balance,payment,transfer to account,u011,u013
+21,2023-09-01 18:47:24,1300.0,balance,payment,transfer to account,u011,u015
+22,2023-09-01 18:48:11,1100.0,balance,payment,transfer to account,u011,u014
+23,2023-09-01 19:09:21,500.0,moneyfund,payment,instant transfer,u008,u002
+24,2023-09-01 21:38:58,599.0,alicredit,payment,instant transfer,u011,u006
+25,2023-09-01 23:18:52,500.0,balance,payment,transfer to account,u000,u002
+26,2023-09-01 23:21:41,699.0,moneyfund,payment,instant transfer,u001,u000

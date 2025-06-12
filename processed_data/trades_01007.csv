@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-12 02:50:11,7000.0,moneyfund,payment,O2O,u014,u017
+1,2023-09-12 02:52:02,7000.0,balance,payment,tangible goods trade,u017,u004
+2,2023-09-12 02:58:53,7000.0,debit_card,payment,transfer to account,u004,u014
+3,2023-09-12 14:05:44,1000.0,debit_card,payment,instant transfer,u009,u022
+4,2023-09-12 14:50:56,503.0,balance,payment,instant transfer,u003,u013
+5,2023-09-12 17:34:56,700.0,moneyfund,payment,instant transfer,u005,u014
+6,2023-09-12 18:03:43,1000.0,moneyfund,transfer to card,others,u016,u017
+7,2023-09-12 18:08:17,1000.0,balance,transfer to card,others,u016,u017
+8,2023-09-12 18:27:09,1836.0,balance,transfer to card,others,u001,u000
+9,2023-09-12 18:34:38,999.0,debit_card,payment,O2O,u015,u018
+10,2023-09-12 18:44:27,950.0,moneyfund,payment,O2O,u015,u019
+11,2023-09-12 20:41:10,940.0,balance,payment,transfer to account,u008,u013
+12,2023-09-12 20:41:38,1250.0,debit_card,payment,transfer to account,u008,u022
+13,2023-09-12 21:33:02,499.98,debit_card,payment,instant transfer,u013,u000
+14,2023-09-12 21:54:43,1000.0,moneyfund,payment,transfer to account,u020,u022
+15,2023-09-12 22:03:54,3000.0,moneyfund,payment,transfer to account,u006,u018
+16,2023-09-12 22:22:51,2000.0,moneyfund,payment,transfer to account,u020,u022
+17,2023-09-12 22:27:12,1575.0,debit_card,payment,instant transfer,u021,u011
+18,2023-09-12 22:39:31,799.0,balance,payment,instant transfer,u017,u023
+19,2023-09-12 22:45:20,1023.0,balance,transfer to card,transfer to card,u021,u000
+20,2023-09-12 22:47:45,599.0,alicredit,payment,instant transfer,u012,u011
+21,2023-09-12 22:47:55,1393.0,balance,transfer to card,transfer to card,u021,u011
+22,2023-09-12 23:04:01,500.0,moneyfund,payment,instant transfer,u019,u015
+23,2023-09-12 23:10:06,500.0,balance,payment,instant transfer,u017,u007
+24,2023-09-12 23:12:11,779.0,debit_card,payment,instant transfer,u000,u022
+25,2023-09-12 23:35:20,1500.0,debit_card,payment,transfer to account,u004,u002
+26,2023-09-12 23:53:26,830.0,balance,payment,instant transfer,u010,u005

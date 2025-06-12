@@ -1,0 +1,30 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-04 01:05:36,1280.0,debit_card,payment,instant transfer,u002,u013
+1,2023-09-04 01:07:09,1588.0,debit_card,payment,instant transfer,u002,u010
+2,2023-09-04 01:31:05,1000.0,debit_card,payment,instant transfer,u002,u017
+3,2023-09-04 16:35:52,1501.5,moneyfund,transfer to card,transfer to card,u009,u014
+4,2023-09-04 16:36:27,2900.0,moneyfund,transfer to card,transfer to card,u009,u012
+5,2023-09-04 16:37:14,2500.0,balance,transfer to card,transfer to card,u009,u010
+6,2023-09-04 16:37:31,2000.0,balance,transfer to card,transfer to card,u009,u006
+7,2023-09-04 16:37:59,2800.0,balance,transfer to card,transfer to card,u009,u000
+8,2023-09-04 16:38:11,1400.0,moneyfund,transfer to card,transfer to card,u009,u008
+9,2023-09-04 18:03:54,500.0,debit_card,payment,tangible goods trade,u010,u013
+10,2023-09-04 19:06:17,1600.0,balance,transfer to card,others,u009,u000
+11,2023-09-04 19:06:31,599.0,debit_card,payment,tangible goods trade,u010,u002
+12,2023-09-04 19:09:26,630.0,debit_card,payment,instant transfer,u004,u010
+13,2023-09-04 19:16:19,1000.0,moneyfund,payment,transfer to account,u000,u014
+14,2023-09-04 19:38:40,730.91,debit_card,payment,instant transfer,u015,u018
+15,2023-09-04 19:44:19,998.0,balance,payment,tangible goods trade,u010,u002
+16,2023-09-04 21:24:32,899.0,debit_card,payment,tangible goods trade,u016,u019
+17,2023-09-04 22:28:46,1900.0,balance,payment,transfer to account,u001,u003
+18,2023-09-04 22:29:09,1900.0,balance,payment,transfer to account,u003,u011
+19,2023-09-04 22:36:43,1900.0,debit_card,payment,transfer to account,u011,u001
+20,2023-09-04 22:52:53,500.0,debit_card,payment,instant transfer,u005,u002
+21,2023-09-04 23:05:10,998.0,other,payment,instant transfer,u007,u010
+22,2023-09-04 23:21:11,12800.0,balance,payment,instant transfer,u014,u009
+23,2023-09-04 23:35:17,1000.0,balance,transfer to card,transfer to card,u017,u000
+24,2023-09-04 23:36:19,978.0,balance,transfer to card,transfer to card,u017,u012
+25,2023-09-04 23:36:47,1049.05,balance,transfer to card,transfer to card,u017,u000
+26,2023-09-04 23:37:29,1000.0,balance,transfer to card,transfer to card,u017,u000
+27,2023-09-04 23:38:14,868.0,debit_card,transfer to card,transfer to card,u017,u014
+28,2023-09-04 23:38:57,985.0,balance,transfer to card,transfer to card,u017,u002

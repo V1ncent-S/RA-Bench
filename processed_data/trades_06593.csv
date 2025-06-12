@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-13 12:26:51,5174.0,moneyfund,payment,transfer to account,u026,u020
+1,2023-09-13 13:27:19,600.0,debit_card,payment,instant transfer,u007,u015
+2,2023-09-13 13:40:19,1800.0,moneyfund,payment,transfer to account,u020,u022
+3,2023-09-13 13:41:08,1330.0,moneyfund,payment,instant transfer,u026,u004
+4,2023-09-13 15:02:06,1000.0,balance,payment,transfer to account,u020,u010
+5,2023-09-13 15:06:15,12000.0,moneyfund,payment,instant transfer,u026,u024
+6,2023-09-13 15:49:01,6200.0,debit_card,payment,instant transfer,u012,u021
+7,2023-09-13 16:08:17,500.0,moneyfund,payment,instant transfer,u001,u016
+8,2023-09-13 18:11:25,50000.0,balance,transfer to card,transfer to card,u005,u025
+9,2023-09-13 18:29:29,1140.0,balance,transfer to card,transfer to card,u013,u006
+10,2023-09-13 18:29:56,1100.0,balance,transfer to card,transfer to card,u013,u024
+11,2023-09-13 18:30:25,1665.0,balance,transfer to card,transfer to card,u013,u006
+12,2023-09-13 19:58:21,2000.0,debit_card,payment,transfer to account,u021,u000
+13,2023-09-13 20:15:45,2142.0,moneyfund,payment,instant transfer,u018,u013
+14,2023-09-13 21:01:00,1472.0,balance,payment,instant transfer,u021,u024
+15,2023-09-13 22:19:33,2800.0,debit_card,payment,tangible goods trade,u002,u024
+16,2023-09-13 22:22:11,8100.0,debit_card,payment,instant transfer,u019,u011
+17,2023-09-13 22:22:14,1800.0,balance,payment,transfer to account,u022,u020
+18,2023-09-13 22:24:13,2002.0,balance,transfer to card,transfer to card,u022,u013
+19,2023-09-13 22:24:27,1699.0,debit_card,payment,O2O,u008,u023
+20,2023-09-13 22:25:03,8100.0,alicredit,payment,transfer to account,u011,u013
+21,2023-09-13 22:26:17,8100.0,moneyfund,payment,transfer to account,u013,u019
+22,2023-09-13 22:39:47,3000.0,debit_card,payment,transfer to account,u003,u022
+23,2023-09-13 22:53:17,500.5,balance,transfer to card,transfer to card,u017,u014
+24,2023-09-13 23:06:30,500.0,balance,transfer to card,others,u017,u009
+25,2023-09-13 23:46:30,1980.0,alicredit,payment,instant transfer,u012,u001

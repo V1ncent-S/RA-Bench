@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-01 02:40:20,500.0,moneyfund,payment,instant transfer,u018,u009
+1,2023-09-01 03:13:57,1000.0,balance,transfer to card,others,u018,u008
+2,2023-09-01 17:10:03,8900.0,debit_card,payment,instant transfer,u014,u001
+3,2023-09-01 17:15:17,8900.0,alicredit,payment,O2O,u001,u024
+4,2023-09-01 17:15:27,8900.0,balance,payment,instant transfer,u024,u014
+5,2023-09-01 18:06:17,573.0,moneyfund,payment,instant transfer,u014,u021
+6,2023-09-01 18:10:51,5120.0,moneyfund,payment,instant transfer,u013,u019
+7,2023-09-01 18:12:02,5140.0,debit_card,payment,instant transfer,u013,u004
+8,2023-09-01 18:43:13,1700.0,credit_card,payment,O2O,u003,u000
+9,2023-09-01 19:13:42,499.0,moneyfund,payment,instant transfer,u016,u000
+10,2023-09-01 19:23:23,680.0,credit_card,payment,instant transfer,u012,u008
+11,2023-09-01 20:24:46,1000.0,moneyfund,payment,O2O,u016,u007
+12,2023-09-01 20:43:54,4400.0,balance,payment,tangible goods trade,u014,u015
+13,2023-09-01 20:49:27,4400.0,debit_card,payment,transfer to account,u015,u020
+14,2023-09-01 20:51:04,4400.0,moneyfund,payment,transfer to account,u020,u014
+15,2023-09-01 21:58:17,3003.0,balance,transfer to card,others,u023,u017
+16,2023-09-01 22:12:48,1000.0,balance,transfer to card,transfer to card,u021,u014
+17,2023-09-01 22:13:07,1401.4,balance,transfer to card,transfer to card,u021,u011
+18,2023-09-01 22:17:18,1900.0,balance,transfer to card,transfer to card,u021,u005
+19,2023-09-01 22:18:15,1600.0,balance,transfer to card,transfer to card,u021,u014
+20,2023-09-01 22:35:02,3000.0,balance,payment,transfer to account,u002,u018
+21,2023-09-01 23:13:12,1599.0,alicredit,payment,tangible goods trade,u007,u018
+22,2023-09-01 23:13:26,4950.0,moneyfund,payment,transfer to account,u002,u006
+23,2023-09-01 23:18:22,1024.0,debit_card,payment,tangible goods trade,u007,u000
+24,2023-09-01 23:43:52,680.0,debit_card,payment,instant transfer,u010,u002
+25,2023-09-01 23:46:32,2000.0,moneyfund,payment,instant transfer,u010,u022

@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-02 08:45:37,4999.0,moneyfund,payment,O2O,u009,u010
+1,2023-09-02 09:35:57,2400.0,moneyfund,payment,instant transfer,u013,u012
+2,2023-09-02 09:36:40,2500.0,moneyfund,payment,instant transfer,u000,u012
+3,2023-09-02 09:38:34,2100.0,moneyfund,payment,instant transfer,u006,u012
+4,2023-09-02 09:39:07,3000.0,moneyfund,payment,instant transfer,u012,u001
+5,2023-09-02 09:41:55,1800.0,moneyfund,payment,instant transfer,u012,u007
+6,2023-09-02 09:44:05,2200.0,moneyfund,payment,instant transfer,u012,u018
+7,2023-09-02 18:06:55,2200.0,balance,payment,transfer to account,u005,u011
+8,2023-09-02 19:12:07,2000.0,credit_card,payment,instant transfer,u005,u003
+9,2023-09-02 19:34:18,2487.0,debit_card,payment,transfer to account,u004,u008
+10,2023-09-02 19:40:15,1000.0,balance,transfer to card,others,u019,u004
+11,2023-09-02 20:11:38,1000.0,debit_card,payment,instant transfer,u007,u011
+12,2023-09-02 20:29:50,1900.0,debit_card,payment,instant transfer,u013,u012
+13,2023-09-02 20:35:02,2100.0,debit_card,payment,instant transfer,u000,u012
+14,2023-09-02 20:35:05,2000.0,debit_card,payment,instant transfer,u006,u012
+15,2023-09-02 20:35:55,2500.0,debit_card,payment,instant transfer,u012,u001
+16,2023-09-02 20:36:50,2200.0,debit_card,payment,instant transfer,u012,u007
+17,2023-09-02 20:37:00,1300.0,debit_card,payment,instant transfer,u012,u018
+18,2023-09-02 20:39:11,594.0,moneyfund,payment,instant transfer,u005,u015
+19,2023-09-02 20:39:44,648.0,debit_card,payment,O2O,u012,u014
+20,2023-09-02 20:41:01,598.0,debit_card,payment,O2O,u012,u014
+21,2023-09-02 21:11:08,565.0,debit_card,payment,instant transfer,u020,u012
+22,2023-09-02 21:47:09,838.0,credit_card,payment,O2O,u016,u011
+23,2023-09-02 22:48:47,1000.0,debit_card,payment,instant transfer,u002,u009
+24,2023-09-02 23:16:49,1000.0,debit_card,payment,transfer to account,u008,u007
+25,2023-09-02 23:41:11,799.0,debit_card,payment,transfer to account,u017,u012
+26,2023-09-02 23:41:15,2000.0,balance,payment,instant transfer,u014,u021

@@ -1,0 +1,26 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-02 02:19:08,600.0,debit_card,payment,instant transfer,u007,u016
+1,2023-09-02 03:05:49,600.0,other,payment,instant transfer,u007,u010
+2,2023-09-02 03:09:28,616.0,other,payment,instant transfer,u007,u009
+3,2023-09-02 13:36:51,1000.0,debit_card,payment,instant transfer,u013,u006
+4,2023-09-02 18:32:14,1001.0,balance,transfer to card,transfer to card,u001,u010
+5,2023-09-02 18:32:44,2002.0,debit_card,transfer to card,transfer to card,u001,u012
+6,2023-09-02 18:33:44,2000.0,balance,transfer to card,transfer to card,u001,u011
+7,2023-09-02 18:34:38,2000.0,balance,transfer to card,transfer to card,u001,u011
+8,2023-09-02 18:34:58,2000.0,balance,transfer to card,transfer to card,u001,u011
+9,2023-09-02 18:36:36,2002.0,balance,transfer to card,transfer to card,u001,u012
+10,2023-09-02 18:37:11,2002.0,debit_card,transfer to card,transfer to card,u001,u012
+11,2023-09-02 20:50:38,2200.0,balance,transfer to card,transfer to card,u001,u004
+12,2023-09-02 20:51:21,2424.0,moneyfund,transfer to card,transfer to card,u001,u012
+13,2023-09-02 21:21:18,5000.0,moneyfund,payment,instant transfer,u000,u015
+14,2023-09-02 21:22:17,1467.0,debit_card,payment,tangible goods trade,u017,u005
+15,2023-09-02 21:34:09,699.0,debit_card,payment,tangible goods trade,u017,u008
+16,2023-09-02 21:36:11,2000.0,debit_card,payment,instant transfer,u002,u010
+17,2023-09-02 22:05:01,6950.0,moneyfund,payment,instant transfer,u000,u018
+18,2023-09-02 23:07:36,1199.0,debit_card,payment,instant transfer,u004,u016
+19,2023-09-02 23:08:58,5000.0,moneyfund,payment,transfer to account,u009,u003
+20,2023-09-02 23:10:57,9777.0,balance,transfer to card,withdrawal,u009,u003
+21,2023-09-02 23:17:16,1450.0,debit_card,payment,instant transfer,u014,u011
+22,2023-09-02 23:20:50,7000.0,balance,transfer to card,withdrawal,u009,u003
+23,2023-09-02 23:21:02,10000.0,debit_card,payment,transfer to account,u009,u003
+24,2023-09-02 23:40:24,1000.0,balance,payment,instant transfer,u014,u012

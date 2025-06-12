@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-12 08:21:41,621.0,alicredit,payment,instant transfer,u014,u001
+1,2023-09-12 12:04:17,1250.0,debit_card,payment,transfer to account,u023,u010
+2,2023-09-12 13:09:12,500.0,balance,payment,instant transfer,u018,u011
+3,2023-09-12 13:51:39,1500.0,balance,transfer to card,others,u005,u021
+4,2023-09-12 14:31:26,1000.0,moneyfund,payment,transfer to account,u005,u016
+5,2023-09-12 14:40:56,6600.0,moneyfund,payment,transfer to account,u008,u013
+6,2023-09-12 14:41:33,6600.0,debit_card,payment,tangible goods trade,u013,u024
+7,2023-09-12 14:41:47,6600.0,debit_card,payment,instant transfer,u024,u008
+8,2023-09-12 16:08:03,500.0,balance,transfer to card,others,u007,u012
+9,2023-09-12 17:16:26,1000.0,moneyfund,transfer to card,others,u019,u006
+10,2023-09-12 17:31:22,1027.0,moneyfund,payment,transfer to account,u000,u014
+11,2023-09-12 18:13:04,500.0,debit_card,payment,instant transfer,u004,u015
+12,2023-09-12 18:22:46,10000.0,debit_card,payment,transfer to account,u009,u026
+13,2023-09-12 18:35:28,1000.0,other,transfer to card,transfer to card,u025,u001
+14,2023-09-12 18:35:57,2000.0,balance,transfer to card,transfer to card,u025,u006
+15,2023-09-12 18:36:54,599.0,moneyfund,payment,credit payment,u010,u015
+16,2023-09-12 18:36:57,800.0,balance,payment,credit payment,u010,u020
+17,2023-09-12 19:27:25,500.0,balance,payment,instant transfer,u012,u017
+18,2023-09-12 19:41:45,1301.8,balance,transfer to card,others,u022,u002
+19,2023-09-12 19:58:27,8800.0,balance,payment,instant transfer,u008,u000
+20,2023-09-12 19:58:42,5999.0,credit_card,payment,instant transfer,u008,u019
+21,2023-09-12 20:18:54,500.0,debit_card,payment,instant transfer,u012,u003
+22,2023-09-12 20:20:10,519.0,debit_card,payment,instant transfer,u012,u015
+23,2023-09-12 20:35:59,6000.0,moneyfund,payment,instant transfer,u008,u000
+24,2023-09-12 20:41:45,4200.0,debit_card,payment,instant transfer,u008,u025
+25,2023-09-12 22:42:21,999.69,balance,payment,transfer to account,u015,u012
+26,2023-09-12 23:01:43,598.0,balance,payment,transfer to account,u015,u012

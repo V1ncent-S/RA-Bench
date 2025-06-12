@@ -1,0 +1,29 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-09 11:32:32,4900.0,credit_card,payment,instant transfer,u009,u024
+1,2023-09-09 13:22:54,3000.0,moneyfund,transfer to card,transfer to card,u025,u004
+2,2023-09-09 13:32:00,1000.0,alicredit,payment,O2O,u007,u006
+3,2023-09-09 14:08:11,2000.0,other,payment,instant transfer,u013,u020
+4,2023-09-09 15:18:24,1500.0,moneyfund,payment,transfer to account,u023,u015
+5,2023-09-09 16:51:32,400.0,balance,payment,O2O,u028,u003
+6,2023-09-09 16:53:03,400.0,alicredit,payment,O2O,u003,u016
+7,2023-09-09 16:55:31,600.0,alicredit,payment,O2O,u028,u017
+8,2023-09-09 16:56:13,600.0,debit_card,payment,O2O,u017,u016
+9,2023-09-09 16:58:52,400.0,debit_card,payment,O2O,u028,u019
+10,2023-09-09 16:59:11,400.0,moneyfund,payment,O2O,u019,u016
+11,2023-09-09 17:01:24,600.0,moneyfund,payment,O2O,u028,u011
+12,2023-09-09 17:01:25,600.0,balance,payment,O2O,u011,u016
+13,2023-09-09 18:26:45,3600.0,balance,transfer to card,others,u001,u004
+14,2023-09-09 18:39:53,20000.0,balance,payment,transfer to account,u000,u021
+15,2023-09-09 19:38:10,1020.0,debit_card,payment,O2O,u019,u012
+16,2023-09-09 19:39:19,1211.0,credit_card,payment,O2O,u019,u018
+17,2023-09-09 21:34:14,1000.0,moneyfund,payment,transfer to account,u018,u021
+18,2023-09-09 22:08:31,1536.54,balance,transfer to card,transfer to card,u029,u016
+19,2023-09-09 22:17:51,724.0,moneyfund,payment,transfer to account,u018,u019
+20,2023-09-09 22:22:15,1000.0,moneyfund,payment,transfer to account,u002,u007
+21,2023-09-09 22:26:46,664.0,balance,payment,transfer to account,u002,u022
+22,2023-09-09 23:28:52,500.0,debit_card,payment,instant transfer,u006,u007
+23,2023-09-09 23:38:37,1000.0,other,transfer to card,others,u014,u021
+24,2023-09-09 23:38:38,5000.0,balance,transfer to card,others,u014,u027
+25,2023-09-09 23:49:34,1000.0,alicredit,payment,tangible goods trade,u008,u005
+26,2023-09-09 23:53:49,900.0,balance,payment,transfer to account,u026,u028
+27,2023-09-09 23:57:22,828.0,balance,payment,transfer to account,u010,u029

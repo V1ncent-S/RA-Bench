@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-13 08:41:54,500.0,debit_card,payment,instant transfer,u010,u004
+1,2023-09-13 09:25:28,1000.0,alicredit,payment,instant transfer,u021,u013
+2,2023-09-13 15:58:57,10000.0,balance,payment,instant transfer,u002,u007
+3,2023-09-13 16:28:18,20000.0,balance,payment,instant transfer,u002,u001
+4,2023-09-13 16:31:12,9800.0,other,payment,instant transfer,u018,u005
+5,2023-09-13 17:35:31,1000.0,balance,transfer to card,others,u020,u009
+6,2023-09-13 18:14:25,4100.0,debit_card,payment,instant transfer,u000,u012
+7,2023-09-13 18:18:01,4100.0,moneyfund,payment,instant transfer,u012,u016
+8,2023-09-13 18:21:50,4100.0,credit_card,payment,transfer to account,u016,u000
+9,2023-09-13 20:35:51,1000.0,alicredit,payment,instant transfer,u013,u010
+10,2023-09-13 20:38:06,500.0,credit_card,payment,O2O,u003,u001
+11,2023-09-13 21:11:52,6200.0,debit_card,payment,tangible goods trade,u000,u008
+12,2023-09-13 21:13:34,2100.0,debit_card,payment,tangible goods trade,u000,u017
+13,2023-09-13 21:13:48,2100.0,debit_card,payment,instant transfer,u017,u022
+14,2023-09-13 21:15:55,2100.0,balance,payment,O2O,u022,u000
+15,2023-09-13 21:15:59,6200.0,credit_card,payment,transfer to account,u008,u019
+16,2023-09-13 21:16:19,6200.0,balance,payment,instant transfer,u019,u000
+17,2023-09-13 21:33:04,610.0,moneyfund,payment,instant transfer,u011,u009
+18,2023-09-13 21:33:51,600.0,balance,transfer to card,others,u014,u015
+19,2023-09-13 21:58:17,500.5,balance,transfer to card,others,u010,u001
+20,2023-09-13 22:04:55,648.0,debit_card,payment,instant transfer,u010,u004
+21,2023-09-13 22:32:14,1000.0,balance,transfer to card,others,u007,u001
+22,2023-09-13 22:39:19,3000.0,debit_card,payment,transfer to account,u020,u009
+23,2023-09-13 22:40:20,1000.0,balance,transfer to card,others,u007,u002
+24,2023-09-13 23:36:51,3000.0,balance,transfer to card,others,u009,u006
+25,2023-09-13 23:38:32,2780.0,debit_card,payment,transfer to account,u009,u011
+26,2023-09-13 23:39:49,4260.0,credit_card,payment,O2O,u005,u013

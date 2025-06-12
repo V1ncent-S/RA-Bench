@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-04 03:30:48,700.0,balance,transfer to card,others,u012,u011
+1,2023-09-04 03:40:40,600.0,balance,payment,transfer to account,u012,u011
+2,2023-09-04 04:01:44,9897.3,balance,transfer to card,others,u012,u010
+3,2023-09-04 11:05:09,1000.0,balance,transfer to card,others,u012,u000
+4,2023-09-04 12:19:21,1000.0,moneyfund,payment,transfer to account,u012,u003
+5,2023-09-04 14:17:54,7260.0,moneyfund,payment,transfer to account,u009,u016
+6,2023-09-04 15:46:19,950.0,moneyfund,payment,transfer to account,u019,u006
+7,2023-09-04 16:43:56,1000.0,balance,transfer to card,others,u010,u007
+8,2023-09-04 17:09:19,1000.0,balance,transfer to card,transfer to card,u004,u012
+9,2023-09-04 19:41:11,30000.0,balance,payment,instant transfer,u008,u001
+10,2023-09-04 20:38:18,1000.0,balance,payment,instant transfer,u015,u012
+11,2023-09-04 21:23:21,1831.0,moneyfund,payment,O2O,u008,u001
+12,2023-09-04 22:10:52,1897.02,credit_card,payment,tangible goods trade,u013,u006
+13,2023-09-04 22:36:32,1783.0,balance,transfer to card,transfer to card,u017,u013
+14,2023-09-04 22:42:28,1200.0,balance,transfer to card,transfer to card,u002,u012
+15,2023-09-04 22:43:41,900.9,debit_card,transfer to card,transfer to card,u002,u012
+16,2023-09-04 22:43:59,900.9,moneyfund,transfer to card,transfer to card,u002,u011
+17,2023-09-04 22:44:30,1000.0,moneyfund,transfer to card,transfer to card,u002,u011
+18,2023-09-04 22:46:45,1700.0,balance,transfer to card,transfer to card,u002,u011
+19,2023-09-04 22:47:27,1501.5,debit_card,transfer to card,transfer to card,u002,u012
+20,2023-09-04 22:49:51,1000.0,balance,transfer to card,transfer to card,u002,u011
+21,2023-09-04 22:59:07,3400.0,moneyfund,payment,transfer to account,u009,u014
+22,2023-09-04 23:05:07,3400.0,credit_card,payment,transfer to account,u014,u018
+23,2023-09-04 23:07:21,3400.0,balance,payment,instant transfer,u018,u009
+24,2023-09-04 23:23:23,1980.0,credit_card,payment,tangible goods trade,u013,u017
+25,2023-09-04 23:27:49,10000.0,balance,transfer to card,others,u001,u005

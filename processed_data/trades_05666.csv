@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-13 14:19:18,1000.0,debit_card,payment,transfer to account,u013,u011
+1,2023-09-13 16:07:06,2000.0,balance,payment,instant transfer,u021,u013
+2,2023-09-13 16:17:18,880.0,debit_card,payment,transfer to account,u013,u007
+3,2023-09-13 17:36:44,12000.0,moneyfund,transfer to card,others,u023,u018
+4,2023-09-13 18:27:06,1700.0,credit_card,payment,instant transfer,u007,u029
+5,2023-09-13 19:01:07,1001.0,balance,transfer to card,others,u023,u016
+6,2023-09-13 19:05:29,10000.0,moneyfund,transfer to card,transfer to card,u003,u026
+7,2023-09-13 19:41:40,2200.0,alicredit,payment,instant transfer,u008,u001
+8,2023-09-13 19:43:34,3900.0,debit_card,payment,instant transfer,u010,u009
+9,2023-09-13 19:48:37,3900.0,moneyfund,payment,instant transfer,u009,u017
+10,2023-09-13 19:49:20,3900.0,debit_card,payment,instant transfer,u017,u010
+11,2023-09-13 20:07:09,1000.0,debit_card,payment,transfer to account,u019,u024
+12,2023-09-13 20:33:47,2000.0,balance,payment,transfer to account,u025,u002
+13,2023-09-13 21:54:01,10000.0,balance,payment,transfer to account,u027,u018
+14,2023-09-13 21:55:34,17000.0,moneyfund,payment,instant transfer,u027,u006
+15,2023-09-13 22:03:42,850.0,balance,transfer to card,transfer to card,u000,u019
+16,2023-09-13 22:04:03,500.5,moneyfund,transfer to card,transfer to card,u000,u015
+17,2023-09-13 22:08:06,1000.0,balance,transfer to card,others,u005,u021
+18,2023-09-13 22:08:26,1000.0,balance,transfer to card,others,u005,u012
+19,2023-09-13 22:22:12,905.0,moneyfund,payment,instant transfer,u000,u015
+20,2023-09-13 22:24:27,1000.0,credit_card,payment,instant transfer,u000,u019
+21,2023-09-13 22:29:23,500.0,balance,payment,instant transfer,u000,u028
+22,2023-09-13 22:32:15,1650.0,balance,payment,instant transfer,u020,u022
+23,2023-09-13 22:36:06,1000.0,alicredit,payment,O2O,u014,u004
+24,2023-09-13 22:42:41,2400.0,balance,payment,instant transfer,u020,u002
+25,2023-09-13 23:01:35,2000.0,balance,transfer to card,others,u016,u029

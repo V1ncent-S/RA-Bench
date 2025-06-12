@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-09 10:36:09,503.0,credit_card,payment,instant transfer,u018,u009
+1,2023-09-09 14:00:37,980.0,debit_card,payment,instant transfer,u005,u020
+2,2023-09-09 16:22:49,2000.0,debit_card,payment,instant transfer,u015,u004
+3,2023-09-09 16:43:17,3000.0,balance,transfer to card,others,u002,u003
+4,2023-09-09 16:43:44,1500.0,balance,transfer to card,others,u002,u008
+5,2023-09-09 16:44:25,1000.0,balance,transfer to card,others,u002,u017
+6,2023-09-09 16:45:37,2177.0,balance,payment,instant transfer,u002,u006
+7,2023-09-09 18:35:09,2680.0,balance,payment,instant transfer,u015,u020
+8,2023-09-09 19:35:02,477.5,credit_card,payment,O2O,u007,u016
+9,2023-09-09 19:36:48,513.0,debit_card,payment,O2O,u007,u014
+10,2023-09-09 19:58:42,12311.0,moneyfund,payment,O2O,u001,u005
+11,2023-09-09 19:59:02,12000.0,balance,payment,O2O,u001,u018
+12,2023-09-09 20:46:10,1000.0,moneyfund,payment,O2O,u001,u006
+13,2023-09-09 22:18:13,503.0,credit_card,payment,O2O,u000,u019
+14,2023-09-09 22:19:45,503.0,credit_card,payment,O2O,u000,u011
+15,2023-09-09 22:22:07,1400.0,debit_card,payment,transfer to account,u004,u015
+16,2023-09-09 22:22:38,1400.0,debit_card,payment,O2O,u015,u004
+17,2023-09-09 22:24:02,1000.0,debit_card,payment,transfer to account,u010,u005
+18,2023-09-09 22:36:38,500.0,credit_card,payment,O2O,u013,u012
+19,2023-09-09 22:54:43,1200.0,debit_card,payment,instant transfer,u014,u020
+20,2023-09-09 23:07:19,2000.0,debit_card,payment,O2O,u014,u018
+21,2023-09-09 23:08:34,3003.0,debit_card,transfer to card,transfer to card,u017,u014
+22,2023-09-09 23:29:45,3000.0,moneyfund,payment,transfer to account,u008,u016
+23,2023-09-09 23:29:54,1301.3,balance,transfer to card,transfer to card,u017,u016
+24,2023-09-09 23:30:57,1000.0,balance,transfer to card,transfer to card,u017,u013
+25,2023-09-09 23:31:14,2171.0,moneyfund,transfer to card,transfer to card,u017,u013
+26,2023-09-09 23:32:52,3000.0,debit_card,payment,transfer to account,u008,u013

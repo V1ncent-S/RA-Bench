@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-14 01:29:36,2000.0,debit_card,payment,transfer to account,u015,u011
+1,2023-09-14 12:33:06,1000.0,debit_card,payment,transfer to account,u017,u009
+2,2023-09-14 14:22:18,2000.0,debit_card,payment,transfer to account,u017,u007
+3,2023-09-14 14:22:25,1600.0,moneyfund,payment,transfer to account,u017,u016
+4,2023-09-14 14:22:48,1650.0,moneyfund,payment,transfer to account,u017,u007
+5,2023-09-14 15:01:45,900.0,balance,payment,transfer to account,u017,u016
+6,2023-09-14 17:39:16,1000.0,other,payment,instant transfer,u010,u005
+7,2023-09-14 17:48:20,2000.0,balance,payment,instant transfer,u008,u003
+8,2023-09-14 17:52:24,2000.0,balance,payment,instant transfer,u003,u004
+9,2023-09-14 17:54:16,2000.0,debit_card,payment,instant transfer,u004,u008
+10,2023-09-14 18:36:49,598.0,debit_card,payment,instant transfer,u011,u009
+11,2023-09-14 18:47:09,1825.82,moneyfund,transfer to card,transfer to card,u006,u010
+12,2023-09-14 19:14:32,1000.0,debit_card,payment,transfer to account,u007,u014
+13,2023-09-14 20:58:38,4900.0,balance,payment,instant transfer,u018,u005
+14,2023-09-14 21:04:08,1089.0,balance,payment,tangible goods trade,u013,u009
+15,2023-09-14 21:19:45,1034.0,debit_card,payment,tangible goods trade,u000,u012
+16,2023-09-14 21:24:40,1500.0,balance,transfer to card,transfer to card,u021,u001
+17,2023-09-14 21:28:38,1600.0,balance,payment,transfer to account,u019,u001
+18,2023-09-14 22:05:27,1500.0,moneyfund,payment,transfer to account,u020,u000
+19,2023-09-14 22:36:36,2500.0,moneyfund,payment,instant transfer,u008,u002
+20,2023-09-14 23:30:11,1200.0,debit_card,payment,instant transfer,u005,u011
+21,2023-09-14 23:30:29,1158.0,debit_card,payment,instant transfer,u005,u011
+22,2023-09-14 23:31:28,1400.0,debit_card,payment,transfer to account,u009,u013
+23,2023-09-14 23:33:54,960.0,moneyfund,payment,transfer to account,u009,u016
+24,2023-09-14 23:39:26,1620.0,balance,payment,instant transfer,u009,u017
+25,2023-09-14 23:39:26,1150.0,debit_card,payment,instant transfer,u009,u005

@@ -1,0 +1,1 @@
+{"events": [{"pattern": "gather-scatter", "trade_index": ["011", "012", "013", "014", "015"]}, {"pattern": "loop", "trade_index": ["001", "002", "003"]}, {"pattern": "loop", "trade_index": ["019", "020", "021"]}], "user_id": "u018"}

@@ -1,0 +1,14 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-07 00:19:08,500.0,moneyfund,payment,instant transfer,u002,u003
+1,2023-09-07 03:25:07,665.0,other,payment,instant transfer,u007,u000
+2,2023-09-07 03:27:21,500.0,debit_card,payment,instant transfer,u011,u007
+3,2023-09-07 16:08:11,648.0,debit_card,payment,instant transfer,u012,u002
+4,2023-09-07 16:14:02,500.0,balance,payment,instant transfer,u009,u004
+5,2023-09-07 16:18:18,3000.0,moneyfund,payment,transfer to account,u009,u001
+6,2023-09-07 16:18:41,21000.0,moneyfund,payment,instant transfer,u009,u005
+7,2023-09-07 19:28:06,2000.0,debit_card,payment,transfer to account,u010,u005
+8,2023-09-07 19:28:33,1090.0,balance,payment,transfer to account,u010,u004
+9,2023-09-07 23:39:58,5908.0,balance,payment,transfer to account,u006,u008
+10,2023-09-07 23:41:53,798.92,credit_card,payment,instant transfer,u001,u004
+11,2023-09-07 23:47:10,700.0,balance,transfer to card,others,u006,u007
+12,2023-09-07 23:48:38,10000.0,balance,transfer to card,others,u006,u007

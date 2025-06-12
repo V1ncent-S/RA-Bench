@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-11 07:49:52,6000.0,debit_card,payment,instant transfer,u007,u015
+1,2023-09-11 07:51:32,6000.0,moneyfund,payment,transfer to account,u015,u005
+2,2023-09-11 07:56:01,6000.0,moneyfund,payment,instant transfer,u005,u007
+3,2023-09-11 16:28:27,2002.0,balance,transfer to card,transfer to card,u014,u002
+4,2023-09-11 16:29:37,2245.0,balance,transfer to card,transfer to card,u014,u006
+5,2023-09-11 16:29:53,2475.47,balance,transfer to card,transfer to card,u014,u012
+6,2023-09-11 16:30:27,2000.0,balance,transfer to card,transfer to card,u014,u002
+7,2023-09-11 16:31:20,2600.0,balance,transfer to card,transfer to card,u014,u013
+8,2023-09-11 16:32:22,2500.0,balance,transfer to card,transfer to card,u014,u001
+9,2023-09-11 16:33:19,2000.0,balance,transfer to card,transfer to card,u014,u002
+10,2023-09-11 16:34:27,2720.0,balance,transfer to card,transfer to card,u014,u001
+11,2023-09-11 16:34:52,2302.3,balance,transfer to card,transfer to card,u014,u013
+12,2023-09-11 17:25:19,499.93,balance,transfer to card,others,u013,u006
+13,2023-09-11 18:05:21,10000.0,other,transfer to card,others,u001,u010
+14,2023-09-11 18:05:21,20000.0,other,transfer to card,others,u001,u012
+15,2023-09-11 18:08:50,20000.0,balance,transfer to card,others,u001,u002
+16,2023-09-11 19:06:40,1000.0,balance,transfer to card,others,u010,u012
+17,2023-09-11 19:14:56,40000.0,moneyfund,payment,transfer to account,u001,u011
+18,2023-09-11 19:23:03,1295.0,debit_card,payment,instant transfer,u010,u012
+19,2023-09-11 19:29:01,1000.0,balance,payment,transfer to account,u010,u001
+20,2023-09-11 20:54:27,699.0,credit_card,payment,instant transfer,u007,u001
+21,2023-09-11 21:58:03,9900.0,debit_card,payment,instant transfer,u007,u009
+22,2023-09-11 22:01:13,9900.0,debit_card,payment,instant transfer,u009,u008
+23,2023-09-11 22:05:33,9900.0,moneyfund,payment,instant transfer,u008,u007
+24,2023-09-11 23:28:57,850.0,debit_card,payment,instant transfer,u000,u005
+25,2023-09-11 23:40:26,1043.0,debit_card,payment,transfer to account,u003,u004

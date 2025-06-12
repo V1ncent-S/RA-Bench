@@ -1,0 +1,10 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-10 15:43:26,700.0,balance,payment,tangible goods trade,u008,u006
+1,2023-09-10 18:12:21,1000.0,debit_card,payment,tangible goods trade,u002,u003
+2,2023-09-10 19:18:46,2450.0,balance,payment,transfer to account,u005,u007
+3,2023-09-10 19:19:45,20000.0,moneyfund,payment,transfer to account,u007,u006
+4,2023-09-10 19:34:04,1100.0,balance,payment,instant transfer,u006,u000
+5,2023-09-10 19:42:13,2680.0,debit_card,payment,transfer to account,u006,u004
+6,2023-09-10 20:39:15,1000.0,moneyfund,payment,transfer to account,u007,u001
+7,2023-09-10 23:18:06,880.0,moneyfund,payment,transfer to account,u003,u007
+8,2023-09-10 23:31:54,499.0,debit_card,payment,instant transfer,u001,u002

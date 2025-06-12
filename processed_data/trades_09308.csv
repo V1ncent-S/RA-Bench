@@ -1,0 +1,32 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-13 13:50:43,675.0,debit_card,payment,instant transfer,u012,u005
+1,2023-09-13 14:18:31,8000.0,balance,payment,transfer to account,u001,u015
+2,2023-09-13 14:42:44,5005.0,balance,transfer to card,transfer to card,u001,u012
+3,2023-09-13 20:19:37,500.0,moneyfund,payment,transfer to account,u011,u013
+4,2023-09-13 20:39:46,1300.0,debit_card,payment,tangible goods trade,u020,u014
+5,2023-09-13 20:41:53,1700.0,debit_card,payment,tangible goods trade,u003,u014
+6,2023-09-13 20:42:27,1400.0,debit_card,payment,tangible goods trade,u016,u014
+7,2023-09-13 20:43:24,2600.0,debit_card,payment,tangible goods trade,u019,u014
+8,2023-09-13 20:43:30,2100.0,debit_card,payment,tangible goods trade,u014,u010
+9,2023-09-13 20:43:51,1600.0,debit_card,payment,tangible goods trade,u014,u000
+10,2023-09-13 20:44:08,1600.0,debit_card,payment,tangible goods trade,u014,u018
+11,2023-09-13 20:49:11,1700.0,debit_card,payment,tangible goods trade,u014,u009
+12,2023-09-13 21:42:11,1000.0,balance,transfer to card,transfer to card,u008,u013
+13,2023-09-13 21:43:51,1000.0,balance,transfer to card,transfer to card,u008,u002
+14,2023-09-13 21:44:18,1500.0,balance,transfer to card,transfer to card,u008,u006
+15,2023-09-13 21:44:54,1200.0,balance,transfer to card,transfer to card,u008,u024
+16,2023-09-13 21:46:43,1200.0,balance,transfer to card,transfer to card,u008,u023
+17,2023-09-13 21:47:07,1200.0,balance,transfer to card,transfer to card,u008,u024
+18,2023-09-13 22:42:40,655.0,balance,payment,O2O,u025,u007
+19,2023-09-13 23:19:08,1100.0,credit_card,payment,instant transfer,u020,u014
+20,2023-09-13 23:19:16,1700.0,credit_card,payment,instant transfer,u003,u014
+21,2023-09-13 23:23:10,1800.0,credit_card,payment,instant transfer,u016,u014
+22,2023-09-13 23:25:32,1400.0,credit_card,payment,instant transfer,u019,u014
+23,2023-09-13 23:27:14,1900.0,credit_card,payment,instant transfer,u014,u010
+24,2023-09-13 23:27:49,1600.0,credit_card,payment,instant transfer,u014,u000
+25,2023-09-13 23:28:32,1699.99,debit_card,payment,transfer to account,u008,u006
+26,2023-09-13 23:28:57,1300.0,credit_card,payment,instant transfer,u014,u018
+27,2023-09-13 23:29:05,1200.0,credit_card,payment,instant transfer,u014,u009
+28,2023-09-13 23:39:58,10000.0,balance,payment,transfer to account,u004,u021
+29,2023-09-13 23:56:16,630.0,debit_card,payment,instant transfer,u006,u017
+30,2023-09-13 23:58:39,499.0,other,payment,instant transfer,u006,u022

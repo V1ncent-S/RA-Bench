@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-09 07:56:30,540.0,moneyfund,payment,instant transfer,u012,u010
+1,2023-09-09 08:02:12,1200.0,balance,payment,instant transfer,u012,u025
+2,2023-09-09 08:04:58,650.0,debit_card,payment,instant transfer,u012,u025
+3,2023-09-09 08:05:17,500.0,debit_card,payment,instant transfer,u012,u003
+4,2023-09-09 15:06:04,1000.0,debit_card,payment,instant transfer,u023,u000
+5,2023-09-09 17:25:05,1969.0,balance,transfer to card,transfer to card,u018,u006
+6,2023-09-09 17:27:49,1624.0,balance,transfer to card,transfer to card,u018,u019
+7,2023-09-09 17:48:02,1330.0,balance,payment,O2O,u005,u013
+8,2023-09-09 19:04:58,498.0,debit_card,payment,tangible goods trade,u015,u005
+9,2023-09-09 19:05:49,7100.0,debit_card,payment,transfer to account,u005,u004
+10,2023-09-09 19:08:03,7100.0,moneyfund,payment,instant transfer,u004,u001
+11,2023-09-09 19:10:35,7100.0,moneyfund,payment,transfer to account,u001,u005
+12,2023-09-09 19:22:11,1000.0,balance,transfer to card,others,u008,u002
+13,2023-09-09 19:53:02,1355.0,balance,payment,instant transfer,u017,u020
+14,2023-09-09 20:56:56,1000.0,moneyfund,payment,O2O,u024,u011
+15,2023-09-09 20:57:26,2555.0,credit_card,payment,O2O,u024,u016
+16,2023-09-09 22:11:13,1100.0,debit_card,payment,transfer to account,u009,u015
+17,2023-09-09 22:15:35,1000.0,balance,payment,transfer to account,u009,u013
+18,2023-09-09 22:37:24,9999.0,moneyfund,payment,O2O,u024,u007
+19,2023-09-09 23:08:24,800.0,balance,payment,instant transfer,u022,u023
+20,2023-09-09 23:12:05,1000.0,balance,transfer to card,others,u003,u012
+21,2023-09-09 23:12:34,1000.0,balance,transfer to card,others,u003,u012
+22,2023-09-09 23:14:28,5005.0,balance,transfer to card,others,u003,u025
+23,2023-09-09 23:14:45,2500.0,balance,transfer to card,others,u003,u012
+24,2023-09-09 23:20:22,500.0,other,payment,instant transfer,u016,u024
+25,2023-09-09 23:46:15,497.5,debit_card,payment,instant transfer,u021,u014
+26,2023-09-09 23:47:24,2190.0,moneyfund,payment,instant transfer,u006,u018

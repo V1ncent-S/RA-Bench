@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-05 08:35:05,1000.0,balance,transfer to card,others,u028,u015
+1,2023-09-05 08:38:14,2999.0,moneyfund,payment,transfer to account,u028,u014
+2,2023-09-05 08:48:33,1190.0,debit_card,payment,transfer to account,u028,u025
+3,2023-09-05 11:08:29,1000.0,balance,payment,O2O,u001,u006
+4,2023-09-05 14:34:22,2920.0,alicredit,payment,instant transfer,u004,u021
+5,2023-09-05 14:45:27,1001.0,balance,transfer to card,others,u019,u016
+6,2023-09-05 14:45:42,1000.0,balance,transfer to card,others,u019,u014
+7,2023-09-05 15:02:33,1100.0,alicredit,payment,instant transfer,u010,u009
+8,2023-09-05 15:41:00,1696.0,balance,transfer to card,others,u004,u012
+9,2023-09-05 15:41:58,500.0,balance,transfer to card,others,u004,u012
+10,2023-09-05 15:44:09,1001.0,balance,transfer to card,others,u004,u012
+11,2023-09-05 15:44:34,500.0,balance,transfer to card,others,u019,u016
+12,2023-09-05 15:45:52,499.53,balance,transfer to card,others,u019,u014
+13,2023-09-05 17:53:02,3400.0,moneyfund,payment,transfer to account,u013,u000
+14,2023-09-05 18:42:53,3000.0,moneyfund,payment,transfer to account,u013,u026
+15,2023-09-05 20:35:21,499.0,debit_card,payment,instant transfer,u024,u005
+16,2023-09-05 20:48:02,499.0,debit_card,payment,instant transfer,u024,u008
+17,2023-09-05 20:52:51,875.0,debit_card,payment,O2O,u007,u018
+18,2023-09-05 20:52:59,499.9,debit_card,payment,instant transfer,u017,u027
+19,2023-09-05 21:05:24,1040.0,credit_card,payment,O2O,u007,u011
+20,2023-09-05 21:06:21,1600.0,alicredit,payment,O2O,u007,u002
+21,2023-09-05 21:10:22,1000.0,credit_card,payment,O2O,u007,u022
+22,2023-09-05 22:06:33,11000.0,debit_card,payment,transfer to account,u003,u022
+23,2023-09-05 22:09:07,545.0,balance,payment,transfer to account,u003,u022
+24,2023-09-05 22:32:22,1020.0,balance,transfer to card,others,u020,u023
+25,2023-09-05 22:33:31,599.0,moneyfund,payment,tangible goods trade,u002,u011
+26,2023-09-05 22:36:08,500.0,balance,transfer to card,others,u020,u023

@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-06 12:02:52,2680.0,moneyfund,payment,tangible goods trade,u002,u012
+1,2023-09-06 12:04:07,1064.0,moneyfund,payment,tangible goods trade,u002,u014
+2,2023-09-06 13:27:13,840.0,moneyfund,payment,tangible goods trade,u002,u012
+3,2023-09-06 15:19:40,1999.0,balance,payment,tangible goods trade,u002,u012
+4,2023-09-06 15:28:59,1165.0,other,payment,instant transfer,u011,u000
+5,2023-09-06 15:36:54,10000.0,moneyfund,payment,transfer to account,u010,u016
+6,2023-09-06 16:29:23,1500.0,debit_card,payment,instant transfer,u011,u000
+7,2023-09-06 16:34:49,2000.0,balance,payment,transfer to account,u002,u014
+8,2023-09-06 16:35:39,1999.98,other,payment,transfer to account,u002,u005
+9,2023-09-06 16:51:25,499.0,balance,payment,tangible goods trade,u018,u009
+10,2023-09-06 18:06:25,1000.0,moneyfund,payment,transfer to account,u003,u013
+11,2023-09-06 18:59:11,1000.0,balance,payment,transfer to account,u001,u005
+12,2023-09-06 20:36:30,1600.0,balance,transfer to card,others,u017,u014
+13,2023-09-06 20:37:18,3000.0,moneyfund,payment,transfer to account,u015,u005
+14,2023-09-06 20:37:46,3000.0,moneyfund,payment,transfer to account,u015,u004
+15,2023-09-06 20:45:21,3700.0,balance,payment,transfer to account,u015,u004
+16,2023-09-06 21:13:14,1000.0,balance,transfer to card,others,u016,u006
+17,2023-09-06 22:19:27,2040.0,moneyfund,payment,transfer to account,u006,u010
+18,2023-09-06 22:33:47,570.0,credit_card,payment,O2O,u012,u014
+19,2023-09-06 23:29:56,606.0,debit_card,payment,tangible goods trade,u019,u001
+20,2023-09-06 23:48:13,2200.0,credit_card,payment,transfer to account,u012,u007
+21,2023-09-06 23:50:01,2200.0,balance,payment,transfer to account,u007,u013
+22,2023-09-06 23:51:11,3100.0,balance,payment,transfer to account,u012,u008
+23,2023-09-06 23:53:48,3100.0,moneyfund,payment,transfer to account,u008,u013
+24,2023-09-06 23:56:01,2700.0,moneyfund,payment,transfer to account,u012,u018
+25,2023-09-06 23:57:06,2700.0,moneyfund,payment,transfer to account,u018,u013

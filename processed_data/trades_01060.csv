@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-12 15:13:46,888.0,other,payment,instant transfer,u002,u006
+1,2023-09-12 17:09:15,2400.0,debit_card,payment,instant transfer,u005,u004
+2,2023-09-12 17:14:45,2400.0,balance,payment,instant transfer,u004,u007
+3,2023-09-12 17:15:08,2400.0,debit_card,payment,transfer to account,u007,u005
+4,2023-09-12 18:54:58,3000.0,credit_card,payment,O2O,u005,u018
+5,2023-09-12 18:55:24,3000.0,moneyfund,payment,O2O,u018,u016
+6,2023-09-12 19:01:22,3000.0,moneyfund,payment,tangible goods trade,u016,u005
+7,2023-09-12 20:41:46,10000.0,moneyfund,transfer to card,transfer to card,u011,u006
+8,2023-09-12 20:45:25,3280.0,alicredit,payment,tangible goods trade,u001,u000
+9,2023-09-12 21:00:45,1440.0,balance,payment,transfer to account,u000,u001
+10,2023-09-12 21:12:37,1000.0,moneyfund,payment,transfer to account,u000,u010
+11,2023-09-12 21:44:39,560.0,balance,payment,tangible goods trade,u008,u014
+12,2023-09-12 21:45:46,509.0,balance,payment,tangible goods trade,u008,u009
+13,2023-09-12 22:05:43,1365.0,credit_card,payment,instant transfer,u014,u022
+14,2023-09-12 22:32:03,2900.0,balance,payment,O2O,u006,u011
+15,2023-09-12 22:42:38,4450.0,moneyfund,payment,instant transfer,u017,u003
+16,2023-09-12 22:52:09,500.0,balance,payment,transfer to account,u017,u003
+17,2023-09-12 22:52:17,2700.0,moneyfund,payment,instant transfer,u005,u015
+18,2023-09-12 22:52:53,2700.0,moneyfund,payment,instant transfer,u015,u013
+19,2023-09-12 22:55:28,2700.0,credit_card,payment,transfer to account,u013,u005
+20,2023-09-12 22:57:49,1200.0,debit_card,payment,instant transfer,u019,u008
+21,2023-09-12 23:02:44,5098.8,debit_card,payment,transfer to account,u017,u021
+22,2023-09-12 23:13:43,8200.0,moneyfund,payment,O2O,u005,u008
+23,2023-09-12 23:18:57,8200.0,balance,payment,instant transfer,u008,u020
+24,2023-09-12 23:19:14,8200.0,debit_card,payment,credit payment,u020,u005
+25,2023-09-12 23:21:56,5145.0,balance,payment,O2O,u022,u021
+26,2023-09-12 23:56:51,4400.0,balance,payment,instant transfer,u012,u014

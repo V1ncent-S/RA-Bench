@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-05 01:03:41,800.8,balance,transfer to card,transfer to card,u003,u008
+1,2023-09-05 01:05:50,500.5,balance,transfer to card,transfer to card,u003,u011
+2,2023-09-05 01:06:32,600.0,balance,transfer to card,transfer to card,u003,u008
+3,2023-09-05 01:07:04,700.0,balance,transfer to card,transfer to card,u003,u011
+4,2023-09-05 01:15:18,600.0,balance,transfer to card,transfer to card,u003,u011
+5,2023-09-05 01:19:26,815.0,balance,transfer to card,others,u003,u011
+6,2023-09-05 01:24:08,500.0,balance,transfer to card,others,u003,u011
+7,2023-09-05 01:25:22,1000.0,balance,transfer to card,others,u003,u011
+8,2023-09-05 04:06:44,500.0,debit_card,payment,instant transfer,u010,u004
+9,2023-09-05 05:19:08,1000.0,debit_card,payment,instant transfer,u010,u004
+10,2023-09-05 11:31:58,498.0,debit_card,payment,instant transfer,u013,u006
+11,2023-09-05 11:32:28,1005.0,balance,transfer to card,others,u007,u004
+12,2023-09-05 15:58:11,2000.0,balance,payment,transfer to account,u001,u009
+13,2023-09-05 16:03:06,2000.0,debit_card,payment,transfer to account,u001,u019
+14,2023-09-05 16:04:07,1680.0,debit_card,payment,transfer to account,u001,u008
+15,2023-09-05 16:27:41,500.5,balance,transfer to card,others,u018,u002
+16,2023-09-05 17:21:08,1104.0,moneyfund,payment,transfer to account,u014,u016
+17,2023-09-05 17:41:51,1500.0,moneyfund,payment,transfer to account,u000,u004
+18,2023-09-05 19:08:54,1200.0,moneyfund,payment,transfer to account,u020,u018
+19,2023-09-05 19:09:18,3000.0,moneyfund,payment,transfer to account,u004,u007
+20,2023-09-05 19:59:04,2000.0,moneyfund,payment,instant transfer,u004,u010
+21,2023-09-05 20:01:18,512.0,balance,transfer to card,others,u004,u001
+22,2023-09-05 20:25:13,530.0,moneyfund,payment,instant transfer,u004,u005
+23,2023-09-05 21:29:05,10000.0,debit_card,payment,instant transfer,u017,u015
+24,2023-09-05 23:48:02,5000.0,balance,payment,O2O,u012,u004
+25,2023-09-05 23:48:56,5345.0,balance,payment,transfer to account,u008,u015

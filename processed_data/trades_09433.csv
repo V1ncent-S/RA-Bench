@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-08 01:38:37,565.0,debit_card,payment,instant transfer,u020,u015
+1,2023-09-08 02:26:04,600.0,balance,transfer to card,others,u020,u001
+2,2023-09-08 15:32:39,3950.0,credit_card,payment,instant transfer,u014,u011
+3,2023-09-08 17:17:48,1590.0,credit_card,payment,tangible goods trade,u012,u005
+4,2023-09-08 18:00:27,1800.0,debit_card,payment,tangible goods trade,u012,u005
+5,2023-09-08 18:08:17,1797.0,debit_card,payment,tangible goods trade,u012,u017
+6,2023-09-08 18:09:12,1000.0,alicredit,payment,tangible goods trade,u012,u009
+7,2023-09-08 18:22:00,1050.0,debit_card,payment,instant transfer,u017,u012
+8,2023-09-08 18:23:10,1394.0,debit_card,payment,instant transfer,u017,u013
+9,2023-09-08 18:46:54,2200.0,alicredit,payment,instant transfer,u006,u019
+10,2023-09-08 18:48:11,2200.0,alicredit,payment,tangible goods trade,u019,u007
+11,2023-09-08 18:53:37,2200.0,debit_card,payment,instant transfer,u007,u006
+12,2023-09-08 19:47:43,998.0,other,payment,instant transfer,u003,u008
+13,2023-09-08 19:48:33,2000.0,balance,payment,transfer to account,u005,u013
+14,2023-09-08 20:16:59,533.0,debit_card,payment,instant transfer,u018,u010
+15,2023-09-08 20:17:06,500.0,moneyfund,payment,transfer to account,u018,u000
+16,2023-09-08 20:53:59,1000.0,balance,transfer to card,others,u000,u020
+17,2023-09-08 21:31:01,1000.0,debit_card,payment,instant transfer,u000,u004
+18,2023-09-08 22:16:23,10000.0,debit_card,payment,O2O,u016,u006
+19,2023-09-08 22:42:11,3000.0,balance,transfer to card,others,u002,u003
+20,2023-09-08 22:42:51,2000.0,balance,transfer to card,others,u002,u003
+21,2023-09-08 23:09:15,1000.0,debit_card,payment,instant transfer,u021,u016
+22,2023-09-08 23:19:11,1200.0,debit_card,payment,tangible goods trade,u004,u018
+23,2023-09-08 23:22:48,648.0,debit_card,payment,instant transfer,u021,u016
+24,2023-09-08 23:29:45,1398.0,alicredit,payment,tangible goods trade,u004,u020
+25,2023-09-08 23:52:37,1000.0,balance,payment,instant transfer,u021,u006

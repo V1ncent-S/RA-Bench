@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-09 09:14:54,500.0,moneyfund,payment,instant transfer,u014,u021
+1,2023-09-09 09:39:27,865.0,moneyfund,payment,instant transfer,u014,u002
+2,2023-09-09 10:40:16,668.0,credit_card,payment,tangible goods trade,u025,u013
+3,2023-09-09 10:41:21,699.0,debit_card,payment,tangible goods trade,u025,u003
+4,2023-09-09 11:34:10,2000.0,balance,payment,transfer to account,u001,u011
+5,2023-09-09 12:17:09,3000.0,moneyfund,payment,transfer to account,u001,u008
+6,2023-09-09 14:40:35,1451.0,balance,payment,transfer to account,u012,u022
+7,2023-09-09 16:25:47,1000.0,balance,payment,instant transfer,u024,u016
+8,2023-09-09 17:06:52,1100.0,balance,payment,transfer to account,u001,u004
+9,2023-09-09 17:08:15,2000.0,balance,payment,transfer to account,u012,u004
+10,2023-09-09 17:09:16,900.0,balance,payment,transfer to account,u009,u004
+11,2023-09-09 17:11:45,1300.0,balance,payment,transfer to account,u004,u023
+12,2023-09-09 17:14:44,1500.0,balance,payment,transfer to account,u004,u014
+13,2023-09-09 17:15:13,1200.0,balance,payment,transfer to account,u004,u006
+14,2023-09-09 18:06:18,560.0,debit_card,payment,instant transfer,u017,u007
+15,2023-09-09 18:37:12,1306.0,debit_card,payment,instant transfer,u020,u018
+16,2023-09-09 19:14:56,1000.0,balance,payment,transfer to account,u017,u010
+17,2023-09-09 20:22:08,600.0,balance,payment,transfer to account,u011,u001
+18,2023-09-09 20:28:37,505.0,debit_card,payment,instant transfer,u018,u019
+19,2023-09-09 20:30:34,1000.0,debit_card,payment,transfer to account,u016,u026
+20,2023-09-09 20:30:49,1006.0,balance,payment,transfer to account,u016,u005
+21,2023-09-09 20:45:57,1450.0,balance,payment,transfer to account,u005,u024
+22,2023-09-09 22:17:54,2000.0,balance,payment,instant transfer,u004,u016
+23,2023-09-09 22:21:11,20000.0,balance,transfer to card,others,u000,u003
+24,2023-09-09 22:38:40,1350.0,debit_card,payment,transfer to account,u026,u004
+25,2023-09-09 23:27:33,663.0,balance,payment,transfer to account,u026,u015
+26,2023-09-09 23:36:29,3000.0,balance,payment,transfer to account,u013,u005

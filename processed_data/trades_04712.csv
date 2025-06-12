@@ -1,0 +1,26 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-04 03:30:48,700.0,balance,transfer to card,others,u007,u006
+1,2023-09-04 03:40:40,600.0,balance,payment,transfer to account,u007,u006
+2,2023-09-04 04:01:44,9897.3,balance,transfer to card,others,u007,u005
+3,2023-09-04 04:47:17,500.0,moneyfund,payment,transfer to account,u003,u018
+4,2023-09-04 14:17:54,7260.0,moneyfund,payment,transfer to account,u004,u013
+5,2023-09-04 15:46:19,950.0,moneyfund,payment,transfer to account,u017,u003
+6,2023-09-04 16:49:57,498.0,balance,transfer to card,others,u000,u009
+7,2023-09-04 17:11:42,2376.0,credit_card,payment,instant transfer,u011,u015
+8,2023-09-04 21:16:28,1000.0,moneyfund,payment,transfer to account,u002,u015
+9,2023-09-04 21:42:03,2002.0,balance,transfer to card,transfer to card,u002,u014
+10,2023-09-04 21:44:17,1000.0,moneyfund,transfer to card,transfer to card,u002,u012
+11,2023-09-04 22:10:52,1897.02,credit_card,payment,tangible goods trade,u008,u003
+12,2023-09-04 22:36:27,900.0,balance,transfer to card,withdrawal,u014,u018
+13,2023-09-04 22:36:32,1783.0,balance,transfer to card,transfer to card,u014,u008
+14,2023-09-04 22:42:28,1200.0,balance,transfer to card,transfer to card,u001,u007
+15,2023-09-04 22:43:41,900.9,debit_card,transfer to card,transfer to card,u001,u007
+16,2023-09-04 22:43:59,900.9,moneyfund,transfer to card,transfer to card,u001,u006
+17,2023-09-04 22:44:30,1000.0,moneyfund,transfer to card,transfer to card,u001,u006
+18,2023-09-04 22:46:45,1700.0,balance,transfer to card,transfer to card,u001,u006
+19,2023-09-04 22:47:27,1501.5,debit_card,transfer to card,transfer to card,u001,u007
+20,2023-09-04 22:49:51,1000.0,balance,transfer to card,transfer to card,u001,u006
+21,2023-09-04 22:59:07,3400.0,moneyfund,payment,transfer to account,u004,u010
+22,2023-09-04 23:05:07,3400.0,credit_card,payment,transfer to account,u010,u016
+23,2023-09-04 23:07:21,3400.0,balance,payment,instant transfer,u016,u004
+24,2023-09-04 23:23:23,1980.0,credit_card,payment,tangible goods trade,u008,u014

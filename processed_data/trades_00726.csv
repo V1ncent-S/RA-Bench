@@ -1,0 +1,29 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-14 03:43:52,899.0,balance,transfer to card,others,u028,u011
+1,2023-09-14 04:51:43,1001.0,balance,transfer to card,others,u028,u027
+2,2023-09-14 11:22:49,1951.0,alicredit,payment,O2O,u017,u014
+3,2023-09-14 11:33:34,3000.0,credit_card,payment,O2O,u013,u006
+4,2023-09-14 12:07:27,893.0,moneyfund,payment,O2O,u013,u006
+5,2023-09-14 12:08:27,2080.0,moneyfund,payment,O2O,u017,u015
+6,2023-09-14 13:19:39,1000.0,balance,transfer to card,others,u013,u006
+7,2023-09-14 14:39:45,5000.0,moneyfund,payment,O2O,u011,u019
+8,2023-09-14 15:44:15,1400.0,balance,transfer to card,others,u002,u001
+9,2023-09-14 16:29:35,1225.0,other,payment,instant transfer,u009,u013
+10,2023-09-14 16:30:40,3534.0,other,payment,instant transfer,u009,u016
+11,2023-09-14 16:31:11,10000.0,debit_card,payment,transfer to account,u005,u010
+12,2023-09-14 16:32:52,1000.0,moneyfund,payment,transfer to account,u005,u007
+13,2023-09-14 16:49:06,1080.0,credit_card,payment,instant transfer,u002,u001
+14,2023-09-14 17:53:28,10000.0,moneyfund,transfer to card,transfer to card,u025,u004
+15,2023-09-14 18:14:27,5470.0,moneyfund,payment,instant transfer,u001,u024
+16,2023-09-14 18:58:57,5600.0,debit_card,payment,tangible goods trade,u021,u018
+17,2023-09-14 18:59:43,5600.0,balance,transfer to card,transfer to card,u018,u021
+18,2023-09-14 20:17:12,3000.0,credit_card,payment,instant transfer,u000,u021
+19,2023-09-14 21:46:15,6000.0,debit_card,payment,transfer to account,u027,u011
+20,2023-09-14 21:55:55,6000.0,moneyfund,payment,transfer to account,u027,u001
+21,2023-09-14 21:56:59,5000.0,debit_card,payment,instant transfer,u012,u003
+22,2023-09-14 22:56:14,3080.0,alicredit,payment,tangible goods trade,u026,u022
+23,2023-09-14 23:04:10,5000.0,balance,payment,transfer to account,u027,u011
+24,2023-09-14 23:11:27,1337.0,debit_card,payment,O2O,u004,u008
+25,2023-09-14 23:42:16,1334.0,debit_card,payment,transfer to account,u020,u005
+26,2023-09-14 23:43:22,1000.0,moneyfund,payment,transfer to account,u020,u009
+27,2023-09-14 23:45:43,20000.0,balance,transfer to card,others,u023,u011

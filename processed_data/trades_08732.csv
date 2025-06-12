@@ -1,0 +1,18 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-15 12:01:18,600.0,balance,payment,instant transfer,u017,u016
+1,2023-09-15 13:52:24,5400.0,balance,payment,instant transfer,u007,u019
+2,2023-09-15 13:52:37,5400.0,debit_card,payment,instant transfer,u019,u006
+3,2023-09-15 13:58:18,5400.0,debit_card,payment,transfer to account,u006,u007
+4,2023-09-15 14:05:47,525.0,balance,payment,instant transfer,u010,u005
+5,2023-09-15 15:37:11,500.0,moneyfund,payment,instant transfer,u010,u008
+6,2023-09-15 16:09:27,730.0,debit_card,payment,instant transfer,u015,u014
+7,2023-09-15 16:56:38,10000.0,balance,payment,instant transfer,u011,u008
+8,2023-09-15 17:00:37,1000.0,other,payment,instant transfer,u015,u012
+9,2023-09-15 20:17:04,1000.0,moneyfund,payment,instant transfer,u015,u008
+10,2023-09-15 20:27:35,1350.0,debit_card,payment,instant transfer,u005,u002
+11,2023-09-15 20:37:28,500.0,moneyfund,payment,instant transfer,u017,u009
+12,2023-09-15 22:02:14,1300.0,debit_card,payment,tangible goods trade,u001,u019
+13,2023-09-15 22:42:25,1400.0,moneyfund,payment,tangible goods trade,u001,u019
+14,2023-09-15 22:46:58,1740.0,debit_card,payment,transfer to account,u003,u000
+15,2023-09-15 23:11:29,648.0,alicredit,payment,instant transfer,u013,u018
+16,2023-09-15 23:49:49,750.0,balance,transfer to card,others,u007,u004

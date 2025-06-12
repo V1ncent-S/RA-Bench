@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-12 03:01:36,2000.0,balance,transfer to card,transfer to card,u010,u013
+1,2023-09-12 03:01:56,500.0,balance,transfer to card,transfer to card,u010,u000
+2,2023-09-12 03:02:34,1000.0,moneyfund,transfer to card,transfer to card,u010,u016
+3,2023-09-12 03:37:04,1000.0,debit_card,payment,transfer to account,u010,u002
+4,2023-09-12 04:05:52,669.28,balance,transfer to card,others,u010,u001
+5,2023-09-12 14:11:48,500.0,other,payment,instant transfer,u010,u013
+6,2023-09-12 15:28:12,1020.0,debit_card,payment,instant transfer,u020,u016
+7,2023-09-12 16:44:21,1899.0,debit_card,payment,instant transfer,u020,u012
+8,2023-09-12 16:46:03,2600.0,moneyfund,payment,instant transfer,u018,u017
+9,2023-09-12 16:58:46,1000.0,moneyfund,transfer to card,transfer to card,u016,u010
+10,2023-09-12 16:59:27,1001.0,balance,transfer to card,transfer to card,u016,u006
+11,2023-09-12 17:00:32,1001.0,balance,transfer to card,transfer to card,u016,u007
+12,2023-09-12 19:07:45,1000.0,moneyfund,payment,instant transfer,u021,u015
+13,2023-09-12 19:15:58,3000.0,moneyfund,payment,instant transfer,u014,u003
+14,2023-09-12 19:47:36,2624.0,credit_card,payment,O2O,u002,u005
+15,2023-09-12 19:54:42,2000.0,debit_card,payment,O2O,u002,u001
+16,2023-09-12 20:31:42,9500.0,credit_card,payment,instant transfer,u018,u011
+17,2023-09-12 20:35:08,9500.0,debit_card,payment,instant transfer,u011,u004
+18,2023-09-12 20:36:11,9500.0,moneyfund,payment,instant transfer,u004,u018
+19,2023-09-12 21:00:43,599.0,alicredit,payment,instant transfer,u016,u006
+20,2023-09-12 21:05:01,592.0,balance,payment,instant transfer,u019,u020
+21,2023-09-12 21:06:22,1740.0,balance,payment,O2O,u009,u005
+22,2023-09-12 21:34:06,1000.0,moneyfund,payment,instant transfer,u012,u008
+23,2023-09-12 22:19:03,1088.0,debit_card,payment,instant transfer,u015,u022
+24,2023-09-12 23:07:13,1000.0,debit_card,payment,instant transfer,u015,u021
+25,2023-09-12 23:12:38,1700.0,debit_card,payment,instant transfer,u015,u022

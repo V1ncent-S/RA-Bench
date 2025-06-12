@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-13 06:37:02,1000.0,balance,transfer to card,others,u013,u009
+1,2023-09-13 12:50:35,10000.0,alicredit,payment,O2O,u005,u006
+2,2023-09-13 13:33:13,10000.0,credit_card,payment,O2O,u005,u010
+3,2023-09-13 13:33:32,1380.0,moneyfund,payment,O2O,u005,u016
+4,2023-09-13 15:02:13,599.97,debit_card,payment,instant transfer,u010,u005
+5,2023-09-13 17:16:18,1194.0,balance,transfer to card,others,u014,u002
+6,2023-09-13 17:42:12,699.95,debit_card,payment,instant transfer,u001,u007
+7,2023-09-13 18:17:40,1501.3,balance,transfer to card,transfer to card,u003,u015
+8,2023-09-13 18:59:28,3800.0,balance,payment,O2O,u018,u017
+9,2023-09-13 19:17:12,1750.0,balance,payment,transfer to account,u004,u013
+10,2023-09-13 19:57:41,500.0,balance,payment,instant transfer,u001,u011
+11,2023-09-13 20:00:26,3000.0,debit_card,payment,transfer to account,u002,u013
+12,2023-09-13 21:13:53,2300.0,moneyfund,payment,tangible goods trade,u002,u013
+13,2023-09-13 22:33:27,3300.0,debit_card,payment,transfer to account,u007,u001
+14,2023-09-13 22:36:41,3878.0,moneyfund,payment,transfer to account,u015,u003
+15,2023-09-13 22:37:01,3950.0,moneyfund,payment,transfer to account,u015,u000
+16,2023-09-13 22:37:32,3400.0,moneyfund,payment,transfer to account,u015,u000
+17,2023-09-13 22:42:44,4700.0,moneyfund,payment,transfer to account,u006,u008
+18,2023-09-13 22:48:30,598.0,moneyfund,payment,tangible goods trade,u007,u011
+19,2023-09-13 22:49:10,4700.0,debit_card,payment,transfer to account,u008,u015
+20,2023-09-13 22:50:13,4700.0,credit_card,payment,instant transfer,u015,u006
+21,2023-09-13 23:02:08,1000.0,debit_card,payment,instant transfer,u006,u012
+22,2023-09-13 23:09:15,1998.0,debit_card,payment,instant transfer,u006,u001
+23,2023-09-13 23:09:35,1000.0,debit_card,payment,instant transfer,u006,u011
+24,2023-09-13 23:12:13,1700.0,balance,payment,instant transfer,u006,u012
+25,2023-09-13 23:49:07,1000.0,debit_card,payment,transfer to account,u013,u009

@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-10 02:17:50,1000.0,balance,transfer to card,transfer to card,u007,u012
+1,2023-09-10 02:20:52,2500.0,balance,transfer to card,transfer to card,u007,u012
+2,2023-09-10 02:22:56,2000.0,balance,transfer to card,transfer to card,u007,u006
+3,2023-09-10 15:10:52,499.92,debit_card,payment,instant transfer,u005,u012
+4,2023-09-10 15:45:51,500.0,credit_card,payment,O2O,u017,u009
+5,2023-09-10 16:35:27,1000.0,moneyfund,payment,transfer to account,u006,u010
+6,2023-09-10 16:43:57,1000.0,moneyfund,payment,instant transfer,u009,u017
+7,2023-09-10 17:08:07,5000.0,balance,transfer to card,others,u008,u012
+8,2023-09-10 18:16:27,1000.0,debit_card,payment,instant transfer,u023,u000
+9,2023-09-10 18:16:46,1880.0,moneyfund,payment,transfer to account,u006,u019
+10,2023-09-10 18:18:12,550.0,balance,payment,instant transfer,u023,u012
+11,2023-09-10 18:21:13,1000.0,debit_card,payment,O2O,u006,u010
+12,2023-09-10 18:29:27,1000.0,moneyfund,payment,transfer to account,u006,u010
+13,2023-09-10 20:00:50,20000.0,other,transfer to card,others,u002,u010
+14,2023-09-10 20:16:33,2240.0,balance,payment,transfer to account,u022,u024
+15,2023-09-10 21:02:53,1700.0,balance,payment,transfer to account,u003,u009
+16,2023-09-10 21:04:18,2600.0,balance,payment,transfer to account,u018,u009
+17,2023-09-10 21:05:18,1600.0,balance,payment,transfer to account,u011,u009
+18,2023-09-10 21:05:39,2100.0,balance,payment,transfer to account,u021,u009
+19,2023-09-10 21:05:53,4600.0,balance,payment,transfer to account,u009,u004
+20,2023-09-10 21:10:10,3400.0,balance,payment,transfer to account,u009,u013
+21,2023-09-10 22:22:14,1000.0,balance,transfer to card,others,u001,u020
+22,2023-09-10 22:46:35,30000.0,balance,transfer to card,others,u019,u015
+23,2023-09-10 22:52:56,5000.0,balance,transfer to card,others,u000,u016
+24,2023-09-10 23:30:18,1000.0,moneyfund,payment,transfer to account,u001,u020
+25,2023-09-10 23:44:46,584.94,debit_card,payment,instant transfer,u010,u022
+26,2023-09-10 23:58:24,520.0,balance,payment,O2O,u014,u016

@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-14 07:40:32,880.0,moneyfund,payment,instant transfer,u012,u005
+1,2023-09-14 07:44:07,2000.0,debit_card,payment,instant transfer,u012,u013
+2,2023-09-14 08:19:23,1000.0,other,payment,digital goods trade,u010,u007
+3,2023-09-14 08:25:39,3000.0,balance,payment,transfer to account,u012,u005
+4,2023-09-14 10:00:27,950.0,balance,payment,digital goods trade,u010,u007
+5,2023-09-14 10:58:15,1800.0,balance,transfer to card,others,u012,u007
+6,2023-09-14 10:58:56,11000.0,balance,transfer to card,others,u012,u007
+7,2023-09-14 12:01:27,1620.0,credit_card,payment,O2O,u002,u013
+8,2023-09-14 12:40:35,2160.0,debit_card,payment,instant transfer,u012,u007
+9,2023-09-14 13:27:26,1990.0,moneyfund,payment,O2O,u002,u013
+10,2023-09-14 15:07:03,10000.0,moneyfund,payment,instant transfer,u009,u001
+11,2023-09-14 18:11:16,3500.0,moneyfund,payment,instant transfer,u004,u000
+12,2023-09-14 18:13:30,3500.0,debit_card,payment,instant transfer,u000,u001
+13,2023-09-14 18:16:37,3500.0,moneyfund,payment,transfer to account,u001,u004
+14,2023-09-14 18:42:13,1480.0,debit_card,payment,tangible goods trade,u015,u010
+15,2023-09-14 19:21:36,10000.0,moneyfund,payment,O2O,u001,u009
+16,2023-09-14 19:22:22,1360.0,moneyfund,payment,O2O,u001,u009
+17,2023-09-14 19:30:53,30000.0,balance,payment,instant transfer,u001,u006
+18,2023-09-14 19:30:53,49850.0,moneyfund,payment,instant transfer,u001,u009
+19,2023-09-14 22:21:12,4500.0,moneyfund,transfer to card,transfer to card,u007,u011
+20,2023-09-14 23:12:12,1300.0,balance,payment,transfer to account,u004,u003
+21,2023-09-14 23:14:15,1300.0,moneyfund,payment,O2O,u003,u008
+22,2023-09-14 23:16:22,1300.0,debit_card,payment,transfer to account,u008,u004
+23,2023-09-14 23:42:08,1000.0,moneyfund,payment,transfer to account,u013,u002
+24,2023-09-14 23:46:52,2080.0,moneyfund,payment,transfer to account,u013,u014
+25,2023-09-14 23:58:33,1000.0,balance,transfer to card,transfer to card,u013,u011
+26,2023-09-14 23:59:11,1000.0,balance,transfer to card,transfer to card,u013,u012

@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-01 16:04:29,1800.0,balance,payment,instant transfer,u001,u008
+1,2023-09-01 16:04:40,1800.0,debit_card,payment,instant transfer,u008,u009
+2,2023-09-01 16:05:06,1900.0,debit_card,payment,instant transfer,u001,u000
+3,2023-09-01 16:09:02,1900.0,moneyfund,payment,instant transfer,u000,u009
+4,2023-09-01 16:09:06,1200.0,moneyfund,payment,instant transfer,u001,u002
+5,2023-09-01 16:09:08,1200.0,debit_card,payment,instant transfer,u002,u009
+6,2023-09-01 16:11:06,2100.0,debit_card,payment,instant transfer,u001,u012
+7,2023-09-01 16:11:10,2100.0,debit_card,payment,instant transfer,u012,u009
+8,2023-09-01 17:11:05,1380.0,moneyfund,payment,tangible goods trade,u003,u002
+9,2023-09-01 18:00:17,7300.0,moneyfund,payment,instant transfer,u009,u004
+10,2023-09-01 18:01:26,7300.0,balance,payment,instant transfer,u004,u006
+11,2023-09-01 18:07:59,7300.0,debit_card,payment,instant transfer,u006,u009
+12,2023-09-01 19:18:03,1160.0,moneyfund,payment,transfer to account,u009,u010
+13,2023-09-01 20:14:41,500.0,balance,transfer to card,others,u009,u005
+14,2023-09-01 20:15:40,14310.0,balance,payment,instant transfer,u009,u010
+15,2023-09-01 21:11:03,2200.0,moneyfund,payment,transfer to account,u001,u008
+16,2023-09-01 21:13:58,2200.0,credit_card,payment,transfer to account,u008,u009
+17,2023-09-01 21:14:13,1900.0,credit_card,payment,transfer to account,u001,u000
+18,2023-09-01 21:15:28,1900.0,moneyfund,payment,transfer to account,u000,u009
+19,2023-09-01 21:17:10,2300.0,moneyfund,payment,transfer to account,u001,u002
+20,2023-09-01 21:17:54,2300.0,moneyfund,payment,transfer to account,u002,u009
+21,2023-09-01 21:19:01,2600.0,moneyfund,payment,transfer to account,u001,u012
+22,2023-09-01 21:21:01,2600.0,moneyfund,payment,transfer to account,u012,u009
+23,2023-09-01 22:17:27,500.0,moneyfund,payment,O2O,u001,u011
+24,2023-09-01 23:00:45,1000.0,debit_card,payment,O2O,u001,u011
+25,2023-09-01 23:34:28,500.0,credit_card,payment,O2O,u001,u007

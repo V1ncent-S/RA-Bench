@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-09 13:46:52,500.0,balance,transfer to card,others,u007,u005
+1,2023-09-09 16:28:18,1950.0,debit_card,payment,tangible goods trade,u013,u022
+2,2023-09-09 16:30:17,2680.0,moneyfund,payment,transfer to account,u013,u022
+3,2023-09-09 18:16:39,1000.0,moneyfund,payment,instant transfer,u008,u009
+4,2023-09-09 19:05:16,10000.0,moneyfund,payment,transfer to account,u000,u008
+5,2023-09-09 19:20:21,1100.0,moneyfund,payment,transfer to account,u008,u016
+6,2023-09-09 19:33:23,505.0,other,payment,instant transfer,u002,u003
+7,2023-09-09 20:46:13,2122.0,balance,transfer to card,others,u004,u000
+8,2023-09-09 20:49:19,2300.0,debit_card,payment,transfer to account,u003,u015
+9,2023-09-09 20:58:00,1400.0,moneyfund,payment,transfer to account,u016,u001
+10,2023-09-09 21:05:09,3000.0,balance,payment,instant transfer,u003,u007
+11,2023-09-09 21:08:46,10000.0,balance,transfer to card,others,u020,u019
+12,2023-09-09 21:19:56,500.0,debit_card,payment,instant transfer,u002,u003
+13,2023-09-09 22:21:15,500.0,debit_card,payment,O2O,u009,u005
+14,2023-09-09 22:21:25,750.0,credit_card,payment,instant transfer,u019,u016
+15,2023-09-09 22:32:03,1500.0,moneyfund,payment,instant transfer,u021,u005
+16,2023-09-09 22:47:37,1000.0,debit_card,payment,instant transfer,u021,u005
+17,2023-09-09 22:49:44,600.0,balance,payment,instant transfer,u014,u008
+18,2023-09-09 22:56:00,1500.0,debit_card,payment,instant transfer,u011,u007
+19,2023-09-09 22:59:23,2140.0,credit_card,payment,instant transfer,u017,u006
+20,2023-09-09 23:05:08,500.0,debit_card,payment,instant transfer,u019,u017
+21,2023-09-09 23:19:11,2250.0,moneyfund,payment,transfer to account,u017,u016
+22,2023-09-09 23:24:26,10000.0,moneyfund,payment,transfer to account,u022,u015
+23,2023-09-09 23:27:28,999.0,debit_card,payment,instant transfer,u018,u010
+24,2023-09-09 23:47:31,2600.0,debit_card,payment,instant transfer,u014,u008
+25,2023-09-09 23:50:54,1000.0,moneyfund,payment,instant transfer,u018,u012

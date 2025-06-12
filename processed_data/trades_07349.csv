@@ -1,0 +1,27 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-14 12:00:03,950.0,credit_card,payment,O2O,u009,u018
+1,2023-09-14 14:44:39,1112.0,debit_card,payment,tangible goods trade,u020,u012
+2,2023-09-14 14:45:10,2002.0,moneyfund,transfer to card,transfer to card,u005,u022
+3,2023-09-14 16:48:31,2000.0,balance,payment,transfer to account,u005,u007
+4,2023-09-14 16:48:52,1000.0,moneyfund,payment,transfer to account,u005,u022
+5,2023-09-14 16:50:55,2280.0,moneyfund,payment,tangible goods trade,u020,u012
+6,2023-09-14 16:58:46,50000.0,balance,payment,instant transfer,u019,u012
+7,2023-09-14 17:22:01,920.0,credit_card,payment,instant transfer,u000,u003
+8,2023-09-14 18:22:12,50000.0,moneyfund,payment,instant transfer,u007,u005
+9,2023-09-14 19:10:59,15586.0,balance,transfer to card,others,u007,u008
+10,2023-09-14 20:42:09,2500.0,moneyfund,payment,transfer to account,u020,u012
+11,2023-09-14 20:43:47,50000.0,balance,transfer to card,others,u012,u020
+12,2023-09-14 20:44:24,70000.0,balance,transfer to card,others,u012,u017
+13,2023-09-14 20:44:38,30483.0,balance,transfer to card,others,u012,u002
+14,2023-09-14 20:44:50,20000.0,balance,transfer to card,others,u012,u011
+15,2023-09-14 21:32:51,2100.0,debit_card,payment,instant transfer,u014,u004
+16,2023-09-14 21:33:09,500.0,debit_card,payment,instant transfer,u015,u016
+17,2023-09-14 21:36:49,4050.0,moneyfund,payment,instant transfer,u006,u021
+18,2023-09-14 21:51:11,500.0,debit_card,payment,transfer to account,u008,u018
+19,2023-09-14 22:02:20,950.0,debit_card,payment,instant transfer,u013,u012
+20,2023-09-14 22:25:54,1017.0,balance,payment,transfer to account,u022,u010
+21,2023-09-14 23:15:46,1888.0,credit_card,payment,instant transfer,u014,u004
+22,2023-09-14 23:16:19,1850.0,balance,payment,instant transfer,u014,u004
+23,2023-09-14 23:45:37,2000.0,balance,transfer to card,others,u018,u001
+24,2023-09-14 23:55:41,2000.0,balance,transfer to card,others,u018,u007
+25,2023-09-14 23:55:58,4000.0,balance,transfer to card,others,u018,u007

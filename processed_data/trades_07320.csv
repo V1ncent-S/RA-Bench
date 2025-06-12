@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-08 09:10:55,540.0,balance,payment,transfer to account,u017,u009
+1,2023-09-08 09:20:47,10000.07,debit_card,payment,instant transfer,u017,u019
+2,2023-09-08 16:21:28,40000.0,moneyfund,payment,transfer to account,u008,u001
+3,2023-09-08 16:22:10,16662.0,balance,payment,transfer to account,u008,u007
+4,2023-09-08 16:24:54,20000.0,balance,payment,transfer to account,u008,u001
+5,2023-09-08 16:37:49,2500.0,debit_card,payment,transfer to account,u000,u016
+6,2023-09-08 16:38:30,1800.0,balance,payment,transfer to account,u000,u016
+7,2023-09-08 18:15:25,3400.0,moneyfund,payment,instant transfer,u012,u004
+8,2023-09-08 18:36:38,5345.0,moneyfund,payment,instant transfer,u008,u007
+9,2023-09-08 19:10:07,500.0,moneyfund,payment,transfer to account,u012,u011
+10,2023-09-08 20:53:11,1550.0,moneyfund,payment,transfer to account,u005,u013
+11,2023-09-08 20:54:44,1800.0,moneyfund,payment,instant transfer,u005,u013
+12,2023-09-08 21:18:57,499.96,debit_card,payment,instant transfer,u002,u018
+13,2023-09-08 21:48:58,14470.0,credit_card,payment,O2O,u005,u013
+14,2023-09-08 21:49:53,15000.0,moneyfund,payment,O2O,u005,u020
+15,2023-09-08 22:22:09,1000.0,credit_card,payment,instant transfer,u015,u006
+16,2023-09-08 22:24:09,8000.0,balance,transfer to card,others,u013,u003
+17,2023-09-08 22:24:48,1037.0,debit_card,payment,instant transfer,u015,u006
+18,2023-09-08 22:29:45,1000.0,moneyfund,payment,instant transfer,u015,u011
+19,2023-09-08 22:35:45,1179.0,balance,transfer to card,others,u013,u005
+20,2023-09-08 22:39:11,1999.0,balance,transfer to card,others,u020,u001
+21,2023-09-08 22:39:26,2000.0,balance,transfer to card,others,u020,u001
+22,2023-09-08 22:56:08,2209.0,debit_card,payment,instant transfer,u020,u013
+23,2023-09-08 23:02:06,699.94,balance,payment,instant transfer,u019,u010
+24,2023-09-08 23:02:25,998.0,moneyfund,payment,instant transfer,u019,u015
+25,2023-09-08 23:29:03,10000.0,balance,payment,instant transfer,u014,u010
+26,2023-09-08 23:30:22,10000.0,moneyfund,payment,instant transfer,u014,u010

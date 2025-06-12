@@ -1,0 +1,29 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-03 12:44:45,1708.0,credit_card,payment,instant transfer,u010,u017
+1,2023-09-03 16:16:12,1460.0,balance,payment,O2O,u014,u011
+2,2023-09-03 16:53:27,1000.0,debit_card,payment,instant transfer,u018,u019
+3,2023-09-03 16:53:44,590.0,balance,payment,instant transfer,u018,u019
+4,2023-09-03 17:16:48,1000.0,debit_card,payment,tangible goods trade,u001,u018
+5,2023-09-03 17:25:58,1000.0,balance,payment,instant transfer,u015,u017
+6,2023-09-03 17:27:37,699.0,balance,payment,instant transfer,u012,u017
+7,2023-09-03 18:18:53,1280.0,credit_card,payment,instant transfer,u008,u016
+8,2023-09-03 18:35:44,900.0,balance,payment,instant transfer,u008,u016
+9,2023-09-03 18:39:24,30000.0,balance,transfer to card,others,u005,u008
+10,2023-09-03 18:40:35,50000.0,balance,transfer to card,others,u005,u000
+11,2023-09-03 19:20:38,1252.25,,payment,instant transfer,u005,u000
+12,2023-09-03 19:34:58,50000.0,balance,payment,transfer to account,u005,u020
+13,2023-09-03 19:39:03,7600.0,moneyfund,payment,transfer to account,u003,u002
+14,2023-09-03 19:46:06,7600.0,balance,payment,tangible goods trade,u002,u020
+15,2023-09-03 19:46:43,7600.0,balance,payment,transfer to account,u020,u003
+16,2023-09-03 20:06:05,50000.0,balance,transfer to card,others,u005,u006
+17,2023-09-03 20:07:09,50050.0,balance,transfer to card,withdrawal,u005,u013
+18,2023-09-03 20:07:31,50050.0,balance,transfer to card,withdrawal,u005,u020
+19,2023-09-03 20:43:03,700.7,debit_card,transfer to card,transfer to card,u007,u009
+20,2023-09-03 22:13:45,1200.0,moneyfund,payment,transfer to account,u016,u004
+21,2023-09-03 22:44:49,866.0,balance,payment,instant transfer,u020,u009
+22,2023-09-03 23:02:51,672.0,debit_card,transfer to card,transfer to card,u007,u020
+23,2023-09-03 23:16:50,1000.0,debit_card,payment,instant transfer,u000,u005
+24,2023-09-03 23:27:58,50000.0,balance,transfer to card,withdrawal,u005,u013
+25,2023-09-03 23:28:27,50000.0,balance,transfer to card,withdrawal,u005,u013
+26,2023-09-03 23:28:58,10000.0,balance,transfer to card,withdrawal,u005,u006
+27,2023-09-03 23:30:26,50000.0,balance,transfer to card,others,u005,u020

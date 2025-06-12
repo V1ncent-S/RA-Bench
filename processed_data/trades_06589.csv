@@ -1,0 +1,40 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-02 11:08:03,1500.0,balance,transfer to card,others,u019,u007
+1,2023-09-02 13:36:50,1985.0,balance,transfer to card,others,u019,u023
+2,2023-09-02 14:19:24,3000.0,moneyfund,payment,O2O,u011,u001
+3,2023-09-02 14:36:20,2100.0,moneyfund,transfer to card,others,u002,u020
+4,2023-09-02 14:36:52,1531.0,other,transfer to card,others,u002,u000
+5,2023-09-02 14:37:40,2000.0,balance,transfer to card,transfer to card,u002,u020
+6,2023-09-02 14:38:02,1000.0,balance,transfer to card,transfer to card,u002,u012
+7,2023-09-02 15:12:20,1536.0,debit_card,payment,instant transfer,u019,u020
+8,2023-09-02 15:13:12,1080.0,debit_card,payment,instant transfer,u019,u003
+9,2023-09-02 16:09:05,663.0,debit_card,payment,instant transfer,u019,u003
+10,2023-09-02 17:03:46,2002.0,balance,transfer to card,transfer to card,u002,u010
+11,2023-09-02 17:04:17,1800.0,debit_card,payment,instant transfer,u005,u017
+12,2023-09-02 17:07:09,2000.0,balance,transfer to card,transfer to card,u002,u000
+13,2023-09-02 17:07:53,3000.0,balance,transfer to card,transfer to card,u002,u020
+14,2023-09-02 18:05:23,500.0,debit_card,payment,instant transfer,u001,u011
+15,2023-09-02 18:16:23,568.0,moneyfund,payment,tangible goods trade,u009,u013
+16,2023-09-02 19:14:35,1350.0,debit_card,payment,instant transfer,u018,u017
+17,2023-09-02 19:19:38,580.0,debit_card,payment,instant transfer,u004,u000
+18,2023-09-02 19:34:45,566.0,debit_card,payment,instant transfer,u020,u018
+19,2023-09-02 20:09:33,2180.0,debit_card,payment,instant transfer,u016,u009
+20,2023-09-02 20:17:35,2073.0,moneyfund,payment,instant transfer,u016,u012
+21,2023-09-02 20:30:46,7600.0,moneyfund,payment,instant transfer,u021,u008
+22,2023-09-02 20:34:19,1090.0,balance,transfer to card,others,u018,u020
+23,2023-09-02 20:34:19,1000.0,other,transfer to card,others,u018,u017
+24,2023-09-02 20:34:23,1700.0,moneyfund,payment,instant transfer,u007,u014
+25,2023-09-02 20:54:26,2960.0,debit_card,payment,transfer to account,u022,u001
+26,2023-09-02 21:11:01,2000.0,balance,transfer to card,others,u003,u020
+27,2023-09-02 21:11:13,1000.0,balance,transfer to card,others,u003,u019
+28,2023-09-02 21:11:50,6000.0,balance,transfer to card,others,u003,u014
+29,2023-09-02 21:15:16,3000.0,balance,payment,transfer to account,u022,u010
+30,2023-09-02 21:23:59,1000.0,debit_card,payment,instant transfer,u003,u014
+31,2023-09-02 21:48:42,3000.0,moneyfund,payment,instant transfer,u024,u021
+32,2023-09-02 21:49:24,3000.0,moneyfund,payment,instant transfer,u021,u020
+33,2023-09-02 21:50:37,3000.0,debit_card,payment,instant transfer,u020,u024
+34,2023-09-02 21:54:40,999.0,balance,payment,instant transfer,u015,u005
+35,2023-09-02 22:09:28,45050.0,balance,payment,transfer to account,u006,u021
+36,2023-09-02 22:15:19,999.0,moneyfund,payment,instant transfer,u015,u019
+37,2023-09-02 23:26:19,500.0,moneyfund,payment,instant transfer,u018,u002
+38,2023-09-02 23:49:28,1130.0,debit_card,payment,transfer to account,u012,u016

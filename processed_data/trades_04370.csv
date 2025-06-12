@@ -1,0 +1,28 @@
+﻿index,gmt_occur,amt,fund_channel,event_name,scene,user_id,opposite_user_id
+0,2023-09-06 15:01:18,3900.0,debit_card,payment,instant transfer,u002,u016
+1,2023-09-06 15:05:32,3900.0,balance,payment,transfer to account,u016,u003
+2,2023-09-06 15:10:09,3900.0,balance,payment,instant transfer,u003,u002
+3,2023-09-06 15:37:39,1999.0,debit_card,payment,O2O,u018,u020
+4,2023-09-06 16:26:19,600.0,alicredit,payment,instant transfer,u013,u001
+5,2023-09-06 17:09:28,1107.0,balance,payment,instant transfer,u019,u007
+6,2023-09-06 17:18:30,2888.0,moneyfund,payment,credit payment,u020,u007
+7,2023-09-06 17:18:30,3850.0,balance,payment,credit payment,u020,u018
+8,2023-09-06 17:18:30,2788.0,moneyfund,payment,credit payment,u020,u022
+9,2023-09-06 17:56:50,504.0,moneyfund,payment,transfer to account,u012,u006
+10,2023-09-06 18:34:08,1000.0,balance,transfer to card,others,u012,u006
+11,2023-09-06 19:38:00,1450.0,debit_card,payment,instant transfer,u000,u016
+12,2023-09-06 20:06:26,628.0,moneyfund,payment,instant transfer,u013,u005
+13,2023-09-06 20:36:30,1400.0,balance,payment,instant transfer,u002,u017
+14,2023-09-06 20:36:37,1400.0,moneyfund,payment,instant transfer,u017,u008
+15,2023-09-06 20:44:11,1400.0,balance,payment,O2O,u008,u002
+16,2023-09-06 21:29:40,545.0,debit_card,payment,O2O,u011,u021
+17,2023-09-06 22:22:25,10010.0,balance,transfer to card,others,u010,u021
+18,2023-09-06 22:22:46,1000.0,balance,transfer to card,others,u010,u019
+19,2023-09-06 22:25:26,1300.0,balance,payment,transfer to account,u010,u019
+20,2023-09-06 23:08:03,500.0,balance,payment,transfer to account,u012,u015
+21,2023-09-06 23:17:13,3000.0,balance,payment,instant transfer,u004,u016
+22,2023-09-06 23:32:51,1240.0,debit_card,payment,instant transfer,u021,u001
+23,2023-09-06 23:33:17,888.0,debit_card,payment,instant transfer,u021,u005
+24,2023-09-06 23:43:03,1100.0,moneyfund,payment,instant transfer,u002,u014
+25,2023-09-06 23:44:17,1100.0,balance,payment,instant transfer,u014,u009
+26,2023-09-06 23:50:30,1100.0,moneyfund,payment,tangible goods trade,u009,u002
